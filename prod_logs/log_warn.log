@@ -1,0 +1,4 @@
+[2022-08-06 15:58:19.250] [restartedMain] [WARN] [io.undertow.websockets.jsr:68] - UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+[2022-08-06 15:59:09.838] [restartedMain] [WARN] [io.undertow.websockets.jsr:68] - UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+[2022-08-06 16:00:22.796] [XNIO-1 task-1] [WARN] [o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver:208] - Resolved [com.pengzy.comment.result.CustomException]
+[2022-08-06 16:01:20.856] [restartedMain] [WARN] [io.undertow.websockets.jsr:68] - UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used

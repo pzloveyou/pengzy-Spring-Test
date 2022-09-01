@@ -1,0 +1,102 @@
+[2022-08-08 09:21:22.553] [XNIO-1 task-1] [INFO] [api-log:42] - 测试接口。。。。。
+[2022-08-08 09:21:22.563] [XNIO-1 task-1] [INFO] [api-log:212] - 【请求ID】: 1556450463258279937
+[2022-08-08 09:21:22.563] [XNIO-1 task-1] [INFO] [api-log:213] - 【请求方法为】：open
+[2022-08-08 09:21:22.563] [XNIO-1 task-1] [INFO] [api-log:214] - 【请求参数为(body)】：[]
+[2022-08-08 09:21:22.583] [XNIO-1 task-1] [INFO] [api-log:215] - 【请求参数为(param)】：{}
+[2022-08-08 09:21:22.583] [XNIO-1 task-1] [INFO] [api-log:216] - 【返回内容为】：null
+[2022-08-08 09:21:22.584] [XNIO-1 task-1] [INFO] [api-log:217] - 【耗时(s)】:0.0121367s -【耗时(ms)】:12ms
+[2022-08-08 09:25:04.042] [XNIO-1 task-1] [INFO] [api-log:42] - 测试接口。。。。。
+[2022-08-08 09:25:04.053] [XNIO-1 task-1] [INFO] [api-log:213] - 【请求ID】: 1556451392250462210
+[2022-08-08 09:25:04.053] [XNIO-1 task-1] [INFO] [api-log:214] - 【请求方法为】：open
+[2022-08-08 09:25:04.053] [XNIO-1 task-1] [INFO] [api-log:215] - 【请求参数为(body)】：[]
+[2022-08-08 09:25:04.074] [XNIO-1 task-1] [INFO] [api-log:216] - 【请求参数为(param)】：{}
+[2022-08-08 09:25:04.074] [XNIO-1 task-1] [INFO] [api-log:217] - 【返回内容为】：null
+[2022-08-08 09:25:04.075] [XNIO-1 task-1] [INFO] [api-log:218] - 【耗时(s)】:0.0133287s -【耗时(ms)】:13ms
+[2022-08-08 09:27:44.624] [XNIO-1 task-1] [INFO] [api-log:42] - 测试接口。。。。。
+[2022-08-08 09:27:44.637] [XNIO-1 task-1] [INFO] [api-log:214] - 【请求ID】: 1556452065775992833
+[2022-08-08 09:27:44.637] [XNIO-1 task-1] [INFO] [api-log:215] - 【请求方法为】：com.pengzy.server.controller.Goods1Controller.open()
+[2022-08-08 09:27:44.637] [XNIO-1 task-1] [INFO] [api-log:216] - 【请求参数为(body)】：[]
+[2022-08-08 09:27:44.659] [XNIO-1 task-1] [INFO] [api-log:217] - 【请求参数为(param)】：{}
+[2022-08-08 09:27:44.660] [XNIO-1 task-1] [INFO] [api-log:218] - 【返回内容为】：null
+[2022-08-08 09:27:44.660] [XNIO-1 task-1] [INFO] [api-log:219] - 【耗时(s)】:0.015515s -【耗时(ms)】:15ms
+[2022-08-08 09:28:00.404] [XNIO-1 task-1] [INFO] [api-log:42] - 测试接口。。。。。
+[2022-08-08 09:28:00.404] [XNIO-1 task-1] [INFO] [api-log:214] - 【请求ID】: 1556452131953721346
+[2022-08-08 09:28:00.404] [XNIO-1 task-1] [INFO] [api-log:215] - 【请求方法为】：com.pengzy.server.controller.Goods1Controller.open()
+[2022-08-08 09:28:00.404] [XNIO-1 task-1] [INFO] [api-log:216] - 【请求参数为(body)】：[]
+[2022-08-08 09:28:00.405] [XNIO-1 task-1] [INFO] [api-log:217] - 【请求参数为(param)】：{}
+[2022-08-08 09:28:00.405] [XNIO-1 task-1] [INFO] [api-log:218] - 【返回内容为】：null
+[2022-08-08 09:28:00.405] [XNIO-1 task-1] [INFO] [api-log:219] - 【耗时(s)】:2.898E-4s -【耗时(ms)】:0ms
+[2022-08-08 09:28:52.521] [XNIO-1 task-1] [INFO] [api-log:42] - 测试接口。。。。。
+[2022-08-08 09:28:52.534] [XNIO-1 task-1] [INFO] [api-log:214] - 【请求ID】: 1556452350556758017
+[2022-08-08 09:28:52.535] [XNIO-1 task-1] [INFO] [api-log:215] - 【请求方法为】：com.pengzy.server.controller.Goods1Controller.open()
+[2022-08-08 09:28:52.535] [XNIO-1 task-1] [INFO] [api-log:216] - 【请求参数为(body)】：[]
+[2022-08-08 09:29:14.127] [XNIO-1 task-1] [INFO] [api-log:217] - 【请求参数为(param)】：{}
+[2022-08-08 09:29:14.128] [XNIO-1 task-1] [INFO] [api-log:218] - 【返回内容为】：null
+[2022-08-08 09:29:14.128] [XNIO-1 task-1] [INFO] [api-log:219] - 【耗时(s)】:0.0160828s -【耗时(ms)】:16ms
+[2022-08-08 09:33:23.667] [XNIO-1 task-1] [INFO] [api-log:42] - 测试接口。。。。。
+[2022-08-08 09:33:23.678] [XNIO-1 task-1] [INFO] [api-log:214] - 【请求ID】: 1556453487821217794
+[2022-08-08 09:33:23.679] [XNIO-1 task-1] [INFO] [api-log:215] - 【请求方法为】：com.pengzy.server.controller.Goods1Controller.open()
+[2022-08-08 09:33:23.679] [XNIO-1 task-1] [INFO] [api-log:216] - 【请求参数为(body)】：[]
+[2022-08-08 09:33:23.704] [XNIO-1 task-1] [INFO] [api-log:217] - 【请求参数为(param)】：{}
+[2022-08-08 09:33:23.704] [XNIO-1 task-1] [INFO] [api-log:218] - 【返回内容为】：null
+[2022-08-08 09:33:23.704] [XNIO-1 task-1] [INFO] [api-log:219] - 【耗时(s)】:0.0139917s -【耗时(ms)】:13ms
+[2022-08-08 09:39:27.505] [XNIO-3 task-1] [INFO] [api-log:42] - 测试接口。。。。。
+[2022-08-08 09:39:27.520] [XNIO-3 task-1] [INFO] [api-log:216] - 【请求ID】: 1556455013868490754
+[2022-08-08 09:39:27.521] [XNIO-3 task-1] [INFO] [api-log:217] - 【请求方法为】：com.pengzy.server.controller.Goods1Controller.open()
+[2022-08-08 09:39:27.521] [XNIO-3 task-1] [INFO] [api-log:218] - 【请求参数为(body)】：[]
+[2022-08-08 09:39:27.554] [XNIO-3 task-1] [INFO] [api-log:219] - 【请求参数为(param)】：{}
+[2022-08-08 09:39:27.554] [XNIO-3 task-1] [INFO] [api-log:220] - 【返回内容为】：null
+[2022-08-08 09:39:27.555] [XNIO-3 task-1] [INFO] [api-log:221] - 【耗时(s)】:0.0182061s -【耗时(ms)】:18ms
+[2022-08-08 09:40:18.194] [XNIO-3 task-1] [INFO] [api-log:42] - 测试接口。。。。。
+[2022-08-08 09:40:18.194] [XNIO-3 task-1] [INFO] [api-log:216] - 【请求ID】: 1556455226465177601
+[2022-08-08 09:40:18.195] [XNIO-3 task-1] [INFO] [api-log:217] - 【请求方法为】：com.pengzy.server.controller.Goods1Controller.open()
+[2022-08-08 09:40:18.195] [XNIO-3 task-1] [INFO] [api-log:218] - 【请求参数为(body)】：[]
+[2022-08-08 09:40:18.195] [XNIO-3 task-1] [INFO] [api-log:219] - 【请求参数为(param)】：{}
+[2022-08-08 09:40:18.195] [XNIO-3 task-1] [INFO] [api-log:220] - 【返回内容为】：null
+[2022-08-08 09:40:18.195] [XNIO-3 task-1] [INFO] [api-log:221] - 【耗时(s)】:2.416E-4s -【耗时(ms)】:0ms
+[2022-08-08 09:42:46.880] [XNIO-1 task-1] [INFO] [api-log:42] - 测试接口。。。。。
+[2022-08-08 09:42:46.892] [XNIO-1 task-1] [INFO] [api-log:217] - 【请求ID】: 1556455850107809794
+[2022-08-08 09:42:46.892] [XNIO-1 task-1] [INFO] [api-log:218] - 【请求方法为】：com.pengzy.server.controller.Goods1Controller.open()
+[2022-08-08 09:42:46.892] [XNIO-1 task-1] [INFO] [api-log:219] - 【请求参数为(body)】：[]
+[2022-08-08 09:42:46.921] [XNIO-1 task-1] [INFO] [api-log:220] - 【请求参数为(param)】：{}
+[2022-08-08 09:42:46.922] [XNIO-1 task-1] [INFO] [api-log:221] - 【返回内容为】：null
+[2022-08-08 09:42:46.923] [XNIO-1 task-1] [INFO] [api-log:222] - 【耗时(s)】:0.0133316s -【耗时(ms)】:13.0ms
+[2022-08-08 09:44:45.707] [XNIO-1 task-1] [INFO] [api-log:42] - 测试接口。。。。。
+[2022-08-08 09:44:45.759] [XNIO-1 task-1] [INFO] [api-log:217] - 【请求ID】: 1556456348504420353
+[2022-08-08 09:44:45.759] [XNIO-1 task-1] [INFO] [api-log:218] - 【请求方法为】：com.pengzy.server.controller.Goods1Controller.open()
+[2022-08-08 09:44:45.759] [XNIO-1 task-1] [INFO] [api-log:219] - 【请求参数为(body)】：[]
+[2022-08-08 09:44:45.767] [XNIO-1 task-1] [INFO] [api-log:220] - 【请求参数为(param)】：{}
+[2022-08-08 09:44:45.767] [XNIO-1 task-1] [INFO] [api-log:221] - 【返回内容为】：{"code":200,"msg":"操作成功！","success":true,"data":null}
+[2022-08-08 09:44:45.768] [XNIO-1 task-1] [INFO] [api-log:222] - 【耗时(s)】:0.0540428s -【耗时(ms)】:54.0ms
+[2022-08-08 09:44:57.179] [XNIO-1 task-1] [INFO] [api-log:42] - 测试接口。。。。。
+[2022-08-08 09:44:57.179] [XNIO-1 task-1] [INFO] [api-log:217] - 【请求ID】: 1556456396587921409
+[2022-08-08 09:44:57.179] [XNIO-1 task-1] [INFO] [api-log:218] - 【请求方法为】：com.pengzy.server.controller.Goods1Controller.open()
+[2022-08-08 09:44:57.179] [XNIO-1 task-1] [INFO] [api-log:219] - 【请求参数为(body)】：[]
+[2022-08-08 09:44:57.180] [XNIO-1 task-1] [INFO] [api-log:220] - 【请求参数为(param)】：{}
+[2022-08-08 09:44:57.180] [XNIO-1 task-1] [INFO] [api-log:221] - 【返回内容为】：{"code":200,"msg":"操作成功！","success":true,"data":null}
+[2022-08-08 09:44:57.180] [XNIO-1 task-1] [INFO] [api-log:222] - 【耗时(s)】:2.74E-4s -【耗时(ms)】:0.0ms
+[2022-08-08 09:50:23.851] [XNIO-1 task-5] [INFO] [api-log:42] - 测试接口。。。。。
+[2022-08-08 09:50:23.852] [XNIO-1 task-5] [INFO] [api-log:217] - 【请求ID】: 1556457766770569218
+[2022-08-08 09:50:23.852] [XNIO-1 task-5] [INFO] [api-log:218] - 【请求方法为】：com.pengzy.server.controller.Goods1Controller.open()
+[2022-08-08 09:50:23.852] [XNIO-1 task-5] [INFO] [api-log:219] - 【请求参数为(body)】：[]
+[2022-08-08 09:50:23.852] [XNIO-1 task-5] [INFO] [api-log:220] - 【请求参数为(param)】：{}
+[2022-08-08 09:50:23.853] [XNIO-1 task-5] [INFO] [api-log:221] - 【返回内容为】：{"code":200,"msg":"操作成功！","success":true,"data":null}
+[2022-08-08 09:50:23.853] [XNIO-1 task-5] [INFO] [api-log:222] - 【耗时(s)】:6.178E-4s -【耗时(ms)】:0.0ms
+[2022-08-08 10:09:04.600] [XNIO-1 task-1] [INFO] [api-log:156] - before....
+[2022-08-08 10:09:04.604] [XNIO-1 task-1] [INFO] [api-log:43] - 测试接口。。。。。
+[2022-08-08 10:09:04.604] [XNIO-1 task-1] [INFO] [api-log:44] - 哈哈哈哈
+[2022-08-08 10:09:04.617] [XNIO-1 task-1] [INFO] [api-log:218] - 【请求ID】: 1556462467566133250
+[2022-08-08 10:09:04.617] [XNIO-1 task-1] [INFO] [api-log:219] - 【请求方法为】：com.pengzy.server.controller.Goods1Controller.open()
+[2022-08-08 10:09:04.618] [XNIO-1 task-1] [INFO] [api-log:220] - 【请求参数为(body)】：[哈哈哈哈]
+[2022-08-08 10:09:04.631] [XNIO-1 task-1] [INFO] [api-log:221] - 【请求参数为(param)】：{"msg":["哈哈哈哈"]}
+[2022-08-08 10:09:04.631] [XNIO-1 task-1] [INFO] [api-log:222] - 【返回内容为】：{"code":200,"msg":"哈哈哈哈","success":true,"data":null}
+[2022-08-08 10:09:04.631] [XNIO-1 task-1] [INFO] [api-log:223] - 【耗时(s)】:0.0155954s -【耗时(ms)】:15.0ms
+[2022-08-08 10:15:46.623] [XNIO-1 task-1] [INFO] [api-log:156] - before....
+[2022-08-08 10:15:46.623] [XNIO-1 task-1] [INFO] [api-log:43] - 测试接口。。。。。
+[2022-08-08 10:15:46.623] [XNIO-1 task-1] [INFO] [api-log:44] - 嘿嘿嘿
+[2022-08-08 10:15:46.624] [XNIO-1 task-1] [INFO] [api-log:218] - 【请求ID】: 1556464153726672898
+[2022-08-08 10:15:46.624] [XNIO-1 task-1] [INFO] [api-log:219] - 【请求方法为】：com.pengzy.server.controller.Goods1Controller.open()
+[2022-08-08 10:15:46.624] [XNIO-1 task-1] [INFO] [api-log:220] - 【请求参数为(body)】：[嘿嘿嘿]
+[2022-08-08 10:15:46.625] [XNIO-1 task-1] [INFO] [api-log:221] - 【请求参数为(param)】：{"msg":["嘿嘿嘿"]}
+[2022-08-08 10:15:46.625] [XNIO-1 task-1] [INFO] [api-log:222] - 【返回内容为】：{"code":200,"msg":"嘿嘿嘿","success":true,"data":null}
+[2022-08-08 10:15:46.625] [XNIO-1 task-1] [INFO] [api-log:223] - 【耗时(s)】:0.001009s -【耗时(ms)】:1.0ms

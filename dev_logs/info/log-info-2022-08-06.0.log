@@ -1,0 +1,1086 @@
+[2022-08-06 11:20:55.707] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 27420 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 11:20:55.708] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - The following 1 profile is active: "dev"
+[2022-08-06 11:21:57.821] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 22296 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 11:21:57.822] [restartedMain] [INFO] [com.pengzy.SystemApplication:640] - The following 1 profile is active: "dev"
+[2022-08-06 11:22:01.781] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 23384 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 11:22:01.782] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - The following 1 profile is active: "dev"
+[2022-08-06 11:22:11.839] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 23840 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 11:22:11.840] [restartedMain] [INFO] [com.pengzy.SystemApplication:640] - The following 1 profile is active: "dev"
+[2022-08-06 11:22:40.838] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 8632 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 11:22:40.839] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - The following 1 profile is active: "dev"
+[2022-08-06 11:22:42.620] [restartedMain] [INFO] [io.undertow.servlet:?] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 11:22:42.968] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-1,master} inited
+[2022-08-06 11:22:42.970] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 11:22:42.971] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 11:22:42.971] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 11:22:44.656] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 11:22:45.132] [restartedMain] [INFO] [io.undertow:?] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 11:22:45.139] [restartedMain] [INFO] [org.xnio:?] - XNIO version 3.8.7.Final
+[2022-08-06 11:22:45.147] [restartedMain] [INFO] [org.xnio.nio:58] - XNIO NIO Implementation Version 3.8.7.Final
+[2022-08-06 11:22:45.186] [restartedMain] [INFO] [org.jboss.threads:52] - JBoss Threads version 3.1.0.Final
+[2022-08-06 11:22:45.238] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:93] - Documentation plugins bootstrapped
+[2022-08-06 11:22:45.240] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Found 1 custom documentation plugin(s)
+[2022-08-06 11:22:45.268] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 11:22:45.328] [restartedMain] [INFO] [com.pengzy.SystemApplication:61] - Started SystemApplication in 5.267 seconds (JVM running for 6.848)
+[2022-08-06 11:23:13.110] [XNIO-1 task-1] [INFO] [io.undertow.servlet:382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2022-08-06 11:27:31.306] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 8632 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 11:27:31.306] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - The following 1 profile is active: "dev"
+[2022-08-06 11:27:31.986] [restartedMain] [INFO] [io.undertow.servlet:382] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 11:27:32.057] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-2,master} inited
+[2022-08-06 11:27:32.057] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 11:27:32.058] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 11:27:32.058] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 11:27:32.856] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 11:27:33.066] [restartedMain] [INFO] [io.undertow:120] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 11:27:33.079] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:93] - Documentation plugins bootstrapped
+[2022-08-06 11:27:33.079] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:79] - Found 1 custom documentation plugin(s)
+[2022-08-06 11:27:33.087] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:?] - Scanning for api listing references
+[2022-08-06 11:27:33.096] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - Started SystemApplication in 1.871 seconds (JVM running for 294.617)
+[2022-08-06 11:33:38.333] [Thread-30] [INFO] [io.undertow:259] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 11:33:38.341] [Thread-30] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource start closing ....
+[2022-08-06 11:33:38.341] [Thread-30] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 11:33:38.341] [Thread-30] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-2} closing ...
+[2022-08-06 11:33:38.343] [Thread-30] [INFO] [com.alibaba.druid.pool.DruidDataSource:2116] - {dataSource-2} closed
+[2022-08-06 11:33:38.343] [Thread-30] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource all closed success,bye
+[2022-08-06 11:33:38.629] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 8632 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 11:33:38.629] [restartedMain] [INFO] [com.pengzy.SystemApplication:640] - The following 1 profile is active: "dev"
+[2022-08-06 11:33:39.962] [restartedMain] [INFO] [io.undertow.servlet:382] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 11:33:40.025] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-3,master} inited
+[2022-08-06 11:33:40.025] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 11:33:40.025] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 11:33:40.025] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 11:33:40.941] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 11:33:41.172] [restartedMain] [INFO] [io.undertow:?] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 11:33:41.186] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:93] - Documentation plugins bootstrapped
+[2022-08-06 11:33:41.187] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:79] - Found 1 custom documentation plugin(s)
+[2022-08-06 11:33:41.196] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 11:33:41.207] [restartedMain] [INFO] [com.pengzy.SystemApplication:61] - Started SystemApplication in 2.678 seconds (JVM running for 662.727)
+[2022-08-06 11:33:42.603] [Thread-39] [INFO] [io.undertow:259] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 11:33:42.610] [Thread-39] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:215] - dynamic-datasource start closing ....
+[2022-08-06 11:33:42.610] [Thread-39] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 11:33:42.610] [Thread-39] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-3} closing ...
+[2022-08-06 11:33:42.611] [Thread-39] [INFO] [com.alibaba.druid.pool.DruidDataSource:?] - {dataSource-3} closed
+[2022-08-06 11:33:42.611] [Thread-39] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:219] - dynamic-datasource all closed success,bye
+[2022-08-06 11:33:42.869] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 8632 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 11:33:42.869] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - The following 1 profile is active: "dev"
+[2022-08-06 11:33:43.742] [restartedMain] [INFO] [io.undertow.servlet:382] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 11:33:43.796] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-4,master} inited
+[2022-08-06 11:33:43.797] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 11:33:43.797] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 11:33:43.797] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 11:33:44.605] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 11:33:44.809] [restartedMain] [INFO] [io.undertow:120] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 11:33:44.823] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:93] - Documentation plugins bootstrapped
+[2022-08-06 11:33:44.824] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:79] - Found 1 custom documentation plugin(s)
+[2022-08-06 11:33:44.831] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 11:33:44.840] [restartedMain] [INFO] [com.pengzy.SystemApplication:61] - Started SystemApplication in 2.06 seconds (JVM running for 666.36)
+[2022-08-06 11:38:24.741] [Thread-48] [INFO] [io.undertow:259] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 11:38:24.750] [Thread-48] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource start closing ....
+[2022-08-06 11:38:24.750] [Thread-48] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 11:38:24.751] [Thread-48] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-4} closing ...
+[2022-08-06 11:38:24.751] [Thread-48] [INFO] [com.alibaba.druid.pool.DruidDataSource:2116] - {dataSource-4} closed
+[2022-08-06 11:38:24.751] [Thread-48] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:219] - dynamic-datasource all closed success,bye
+[2022-08-06 11:38:25.039] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 8632 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 11:38:25.039] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - The following 1 profile is active: "dev"
+[2022-08-06 11:38:26.045] [restartedMain] [INFO] [io.undertow.servlet:382] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 11:38:26.137] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-5,master} inited
+[2022-08-06 11:38:26.137] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 11:38:26.138] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 11:38:26.138] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 11:38:27.218] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:?] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 11:38:27.427] [restartedMain] [INFO] [io.undertow:?] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 11:38:27.442] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Documentation plugins bootstrapped
+[2022-08-06 11:38:27.443] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:79] - Found 1 custom documentation plugin(s)
+[2022-08-06 11:38:27.451] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 11:38:27.462] [restartedMain] [INFO] [com.pengzy.SystemApplication:61] - Started SystemApplication in 2.51 seconds (JVM running for 948.982)
+[2022-08-06 11:42:59.815] [Thread-57] [INFO] [io.undertow:259] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 11:42:59.821] [Thread-57] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:215] - dynamic-datasource start closing ....
+[2022-08-06 11:42:59.821] [Thread-57] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 11:42:59.821] [Thread-57] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-5} closing ...
+[2022-08-06 11:42:59.821] [Thread-57] [INFO] [com.alibaba.druid.pool.DruidDataSource:2116] - {dataSource-5} closed
+[2022-08-06 11:42:59.822] [Thread-57] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:219] - dynamic-datasource all closed success,bye
+[2022-08-06 11:43:00.057] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 8632 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 11:43:00.057] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - The following 1 profile is active: "dev"
+[2022-08-06 11:43:00.738] [restartedMain] [INFO] [io.undertow.servlet:382] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 11:43:00.805] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-6,master} inited
+[2022-08-06 11:43:00.806] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 11:43:00.806] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 11:43:00.806] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 11:43:01.745] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 11:43:01.986] [restartedMain] [INFO] [io.undertow:120] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 11:43:02.003] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:93] - Documentation plugins bootstrapped
+[2022-08-06 11:43:02.004] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:79] - Found 1 custom documentation plugin(s)
+[2022-08-06 11:43:02.013] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 11:43:02.026] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - Started SystemApplication in 2.055 seconds (JVM running for 1223.546)
+[2022-08-06 11:43:43.515] [Thread-66] [INFO] [io.undertow:259] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 11:43:43.523] [Thread-66] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:215] - dynamic-datasource start closing ....
+[2022-08-06 11:43:43.523] [Thread-66] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 11:43:43.523] [Thread-66] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-6} closing ...
+[2022-08-06 11:43:43.524] [Thread-66] [INFO] [com.alibaba.druid.pool.DruidDataSource:2116] - {dataSource-6} closed
+[2022-08-06 11:43:43.524] [Thread-66] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:219] - dynamic-datasource all closed success,bye
+[2022-08-06 11:44:58.158] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 8632 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 11:44:58.158] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - The following 1 profile is active: "dev"
+[2022-08-06 11:44:58.753] [restartedMain] [INFO] [io.undertow.servlet:?] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 11:44:58.958] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:?] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 11:44:59.112] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-7,master} inited
+[2022-08-06 11:44:59.112] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 11:44:59.112] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 11:44:59.112] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 11:44:59.753] [restartedMain] [INFO] [io.undertow:120] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 11:44:59.766] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:93] - Documentation plugins bootstrapped
+[2022-08-06 11:44:59.767] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Found 1 custom documentation plugin(s)
+[2022-08-06 11:44:59.775] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 11:44:59.994] [restartedMain] [INFO] [com.pengzy.SystemApplication:61] - Started SystemApplication in 1.902 seconds (JVM running for 1341.514)
+[2022-08-06 11:49:50.267] [Thread-75] [INFO] [io.undertow:?] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 11:49:50.275] [Thread-75] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:215] - dynamic-datasource start closing ....
+[2022-08-06 11:49:50.275] [Thread-75] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 11:49:50.276] [Thread-75] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-7} closing ...
+[2022-08-06 11:49:50.276] [Thread-75] [INFO] [com.alibaba.druid.pool.DruidDataSource:2116] - {dataSource-7} closed
+[2022-08-06 11:49:50.276] [Thread-75] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:219] - dynamic-datasource all closed success,bye
+[2022-08-06 11:49:50.656] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 8632 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 11:49:50.656] [restartedMain] [INFO] [com.pengzy.SystemApplication:640] - The following 1 profile is active: "dev"
+[2022-08-06 11:49:51.296] [restartedMain] [INFO] [io.undertow.servlet:382] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 11:49:51.539] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 11:49:51.687] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-8,master} inited
+[2022-08-06 11:49:51.687] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 11:49:51.687] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 11:49:51.687] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 11:49:52.558] [restartedMain] [INFO] [io.undertow:120] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 11:49:52.575] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:93] - Documentation plugins bootstrapped
+[2022-08-06 11:49:52.576] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:79] - Found 1 custom documentation plugin(s)
+[2022-08-06 11:49:52.585] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:?] - Scanning for api listing references
+[2022-08-06 11:49:52.651] [restartedMain] [INFO] [com.pengzy.SystemApplication:61] - Started SystemApplication in 2.09 seconds (JVM running for 1634.171)
+[2022-08-06 11:55:30.509] [SpringApplicationShutdownHook] [INFO] [io.undertow:259] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 11:55:30.514] [SpringApplicationShutdownHook] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:215] - dynamic-datasource start closing ....
+[2022-08-06 11:55:30.514] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 11:55:30.514] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-8} closing ...
+[2022-08-06 11:55:30.514] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:2116] - {dataSource-8} closed
+[2022-08-06 11:55:30.515] [SpringApplicationShutdownHook] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource all closed success,bye
+[2022-08-06 13:56:35.505] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 16704 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 13:56:35.506] [restartedMain] [INFO] [com.pengzy.SystemApplication:640] - The following 1 profile is active: "dev"
+[2022-08-06 13:56:37.945] [restartedMain] [INFO] [io.undertow.servlet:382] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 13:56:38.400] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-1,master} inited
+[2022-08-06 13:56:38.401] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 13:56:38.402] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 13:56:38.403] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 13:56:40.372] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:?] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 13:56:41.075] [restartedMain] [INFO] [io.undertow:?] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 13:56:41.083] [restartedMain] [INFO] [org.xnio:95] - XNIO version 3.8.7.Final
+[2022-08-06 13:56:41.092] [restartedMain] [INFO] [org.xnio.nio:?] - XNIO NIO Implementation Version 3.8.7.Final
+[2022-08-06 13:56:41.134] [restartedMain] [INFO] [org.jboss.threads:52] - JBoss Threads version 3.1.0.Final
+[2022-08-06 13:56:41.195] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Documentation plugins bootstrapped
+[2022-08-06 13:56:41.198] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Found 1 custom documentation plugin(s)
+[2022-08-06 13:56:41.229] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 13:56:41.297] [restartedMain] [INFO] [com.pengzy.SystemApplication:61] - Started SystemApplication in 6.731 seconds (JVM running for 9.997)
+[2022-08-06 13:57:22.031] [XNIO-1 task-1] [INFO] [io.undertow.servlet:382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2022-08-06 13:59:12.155] [SpringApplicationShutdownHook] [INFO] [io.undertow:?] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 13:59:12.161] [SpringApplicationShutdownHook] [INFO] [io.undertow.servlet:382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+[2022-08-06 13:59:12.262] [SpringApplicationShutdownHook] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource start closing ....
+[2022-08-06 13:59:12.268] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 13:59:12.269] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:?] - {dataSource-1} closing ...
+[2022-08-06 13:59:12.270] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:2116] - {dataSource-1} closed
+[2022-08-06 13:59:12.274] [SpringApplicationShutdownHook] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:219] - dynamic-datasource all closed success,bye
+[2022-08-06 13:59:18.117] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 19048 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 13:59:18.119] [restartedMain] [INFO] [com.pengzy.SystemApplication:640] - The following 1 profile is active: "dev"
+[2022-08-06 13:59:20.190] [restartedMain] [INFO] [io.undertow.servlet:?] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 13:59:20.551] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-1,master} inited
+[2022-08-06 13:59:20.552] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 13:59:20.553] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 13:59:20.553] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 13:59:22.353] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 13:59:22.928] [restartedMain] [INFO] [io.undertow:120] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 13:59:22.939] [restartedMain] [INFO] [org.xnio:95] - XNIO version 3.8.7.Final
+[2022-08-06 13:59:22.949] [restartedMain] [INFO] [org.xnio.nio:58] - XNIO NIO Implementation Version 3.8.7.Final
+[2022-08-06 13:59:22.993] [restartedMain] [INFO] [org.jboss.threads:52] - JBoss Threads version 3.1.0.Final
+[2022-08-06 13:59:23.061] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Documentation plugins bootstrapped
+[2022-08-06 13:59:23.064] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Found 2 custom documentation plugin(s)
+[2022-08-06 13:59:23.095] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 13:59:23.108] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:?] - Scanning for api listing references
+[2022-08-06 13:59:23.118] [restartedMain] [INFO] [com.pengzy.SystemApplication:61] - Started SystemApplication in 5.989 seconds (JVM running for 7.529)
+[2022-08-06 13:59:29.347] [XNIO-1 task-1] [INFO] [io.undertow.servlet:382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2022-08-06 14:00:27.756] [SpringApplicationShutdownHook] [INFO] [io.undertow:?] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 14:00:27.761] [SpringApplicationShutdownHook] [INFO] [io.undertow.servlet:382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+[2022-08-06 14:00:27.767] [SpringApplicationShutdownHook] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource start closing ....
+[2022-08-06 14:00:27.774] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:?] - {dataSource-0} closing ...
+[2022-08-06 14:00:27.774] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-1} closing ...
+[2022-08-06 14:00:27.774] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:2116] - {dataSource-1} closed
+[2022-08-06 14:00:27.775] [SpringApplicationShutdownHook] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource all closed success,bye
+[2022-08-06 14:00:33.596] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 24024 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 14:00:33.598] [restartedMain] [INFO] [com.pengzy.SystemApplication:640] - The following 1 profile is active: "dev"
+[2022-08-06 14:00:35.600] [restartedMain] [INFO] [io.undertow.servlet:?] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 14:00:35.951] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-1,master} inited
+[2022-08-06 14:00:35.952] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 14:00:35.953] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 14:00:35.953] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 14:00:37.731] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:?] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 14:00:38.282] [restartedMain] [INFO] [io.undertow:?] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 14:00:38.290] [restartedMain] [INFO] [org.xnio:?] - XNIO version 3.8.7.Final
+[2022-08-06 14:00:38.298] [restartedMain] [INFO] [org.xnio.nio:58] - XNIO NIO Implementation Version 3.8.7.Final
+[2022-08-06 14:00:38.338] [restartedMain] [INFO] [org.jboss.threads:?] - JBoss Threads version 3.1.0.Final
+[2022-08-06 14:00:38.392] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:93] - Documentation plugins bootstrapped
+[2022-08-06 14:00:38.397] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Found 2 custom documentation plugin(s)
+[2022-08-06 14:00:38.429] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 14:00:38.493] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:?] - Scanning for api listing references
+[2022-08-06 14:00:38.497] [restartedMain] [INFO] [s.d.s.w.r.operation.CachingOperationNameGenerator:41] - Generating unique operation named: openUsingPOST_1
+[2022-08-06 14:00:38.510] [restartedMain] [INFO] [com.pengzy.SystemApplication:61] - Started SystemApplication in 5.746 seconds (JVM running for 7.232)
+[2022-08-06 14:01:09.870] [XNIO-1 task-1] [INFO] [io.undertow.servlet:?] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2022-08-06 14:02:58.827] [SpringApplicationShutdownHook] [INFO] [io.undertow:?] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 14:02:58.835] [SpringApplicationShutdownHook] [INFO] [io.undertow.servlet:382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+[2022-08-06 14:02:58.844] [SpringApplicationShutdownHook] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:215] - dynamic-datasource start closing ....
+[2022-08-06 14:02:58.852] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 14:02:58.853] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:?] - {dataSource-1} closing ...
+[2022-08-06 14:02:58.854] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:?] - {dataSource-1} closed
+[2022-08-06 14:02:58.854] [SpringApplicationShutdownHook] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource all closed success,bye
+[2022-08-06 14:03:04.832] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 34472 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 14:03:04.833] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - The following 1 profile is active: "dev"
+[2022-08-06 14:03:06.828] [restartedMain] [INFO] [io.undertow.servlet:382] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 14:03:07.164] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-1,master} inited
+[2022-08-06 14:03:07.165] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 14:03:07.166] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 14:03:07.166] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 14:03:08.892] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 14:03:09.438] [restartedMain] [INFO] [io.undertow:120] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 14:03:09.445] [restartedMain] [INFO] [org.xnio:95] - XNIO version 3.8.7.Final
+[2022-08-06 14:03:09.453] [restartedMain] [INFO] [org.xnio.nio:58] - XNIO NIO Implementation Version 3.8.7.Final
+[2022-08-06 14:03:09.493] [restartedMain] [INFO] [org.jboss.threads:52] - JBoss Threads version 3.1.0.Final
+[2022-08-06 14:03:09.544] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Documentation plugins bootstrapped
+[2022-08-06 14:03:09.547] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Found 1 custom documentation plugin(s)
+[2022-08-06 14:03:09.576] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:?] - Scanning for api listing references
+[2022-08-06 14:03:09.634] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - Started SystemApplication in 5.684 seconds (JVM running for 7.291)
+[2022-08-06 14:03:29.473] [Thread-20] [INFO] [io.undertow:?] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 14:03:29.494] [Thread-20] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource start closing ....
+[2022-08-06 14:03:29.504] [Thread-20] [INFO] [com.alibaba.druid.pool.DruidDataSource:?] - {dataSource-0} closing ...
+[2022-08-06 14:03:29.504] [Thread-20] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-1} closing ...
+[2022-08-06 14:03:29.505] [Thread-20] [INFO] [com.alibaba.druid.pool.DruidDataSource:2116] - {dataSource-1} closed
+[2022-08-06 14:03:29.505] [Thread-20] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:219] - dynamic-datasource all closed success,bye
+[2022-08-06 14:03:29.789] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 34472 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 14:03:29.789] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - The following 1 profile is active: "dev"
+[2022-08-06 14:03:30.600] [restartedMain] [INFO] [io.undertow.servlet:382] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 14:03:30.687] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-2,master} inited
+[2022-08-06 14:03:30.687] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 14:03:30.687] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 14:03:30.688] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 14:03:31.675] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 14:03:32.246] [restartedMain] [INFO] [io.undertow:120] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 14:03:32.264] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:93] - Documentation plugins bootstrapped
+[2022-08-06 14:03:32.265] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Found 1 custom documentation plugin(s)
+[2022-08-06 14:03:32.277] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 14:03:32.405] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - Started SystemApplication in 2.75 seconds (JVM running for 30.063)
+[2022-08-06 14:03:33.770] [Thread-28] [INFO] [io.undertow:259] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 14:03:33.782] [Thread-28] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:215] - dynamic-datasource start closing ....
+[2022-08-06 14:03:33.782] [Thread-28] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 14:03:33.783] [Thread-28] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-2} closing ...
+[2022-08-06 14:03:33.783] [Thread-28] [INFO] [com.alibaba.druid.pool.DruidDataSource:2116] - {dataSource-2} closed
+[2022-08-06 14:03:33.783] [Thread-28] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:219] - dynamic-datasource all closed success,bye
+[2022-08-06 14:03:34.165] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 34472 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 14:03:34.165] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - The following 1 profile is active: "dev"
+[2022-08-06 14:03:34.904] [restartedMain] [INFO] [io.undertow.servlet:?] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 14:03:34.971] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-3,master} inited
+[2022-08-06 14:03:34.971] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 14:03:34.971] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 14:03:34.971] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 14:03:35.814] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 14:03:36.118] [restartedMain] [INFO] [io.undertow:120] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 14:03:36.135] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Documentation plugins bootstrapped
+[2022-08-06 14:03:36.135] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:79] - Found 1 custom documentation plugin(s)
+[2022-08-06 14:03:36.144] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 14:03:36.154] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - Started SystemApplication in 2.119 seconds (JVM running for 33.811)
+[2022-08-06 14:03:40.642] [XNIO-3 task-1] [INFO] [io.undertow.servlet:382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2022-08-06 14:04:48.899] [SpringApplicationShutdownHook] [INFO] [io.undertow:?] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 14:04:48.904] [SpringApplicationShutdownHook] [INFO] [io.undertow.servlet:382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+[2022-08-06 14:04:48.913] [SpringApplicationShutdownHook] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource start closing ....
+[2022-08-06 14:04:48.913] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 14:04:48.913] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-3} closing ...
+[2022-08-06 14:04:48.913] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:2116] - {dataSource-3} closed
+[2022-08-06 14:04:48.914] [SpringApplicationShutdownHook] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource all closed success,bye
+[2022-08-06 14:04:55.036] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 30616 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 14:04:55.037] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - The following 1 profile is active: "dev"
+[2022-08-06 14:04:56.985] [restartedMain] [INFO] [io.undertow.servlet:382] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 14:04:57.317] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-1,master} inited
+[2022-08-06 14:04:57.318] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 14:04:57.319] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 14:04:57.320] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 14:04:59.035] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 14:04:59.579] [restartedMain] [INFO] [io.undertow:120] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 14:04:59.588] [restartedMain] [INFO] [org.xnio:?] - XNIO version 3.8.7.Final
+[2022-08-06 14:04:59.596] [restartedMain] [INFO] [org.xnio.nio:?] - XNIO NIO Implementation Version 3.8.7.Final
+[2022-08-06 14:04:59.637] [restartedMain] [INFO] [org.jboss.threads:52] - JBoss Threads version 3.1.0.Final
+[2022-08-06 14:04:59.690] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Documentation plugins bootstrapped
+[2022-08-06 14:04:59.692] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:79] - Found 1 custom documentation plugin(s)
+[2022-08-06 14:04:59.720] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:?] - Scanning for api listing references
+[2022-08-06 14:04:59.779] [restartedMain] [INFO] [com.pengzy.SystemApplication:61] - Started SystemApplication in 5.555 seconds (JVM running for 7.132)
+[2022-08-06 14:05:04.560] [XNIO-1 task-1] [INFO] [io.undertow.servlet:382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2022-08-06 14:05:20.107] [SpringApplicationShutdownHook] [INFO] [io.undertow:259] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 14:05:20.114] [SpringApplicationShutdownHook] [INFO] [io.undertow.servlet:382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+[2022-08-06 14:05:20.123] [SpringApplicationShutdownHook] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource start closing ....
+[2022-08-06 14:05:20.130] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:?] - {dataSource-0} closing ...
+[2022-08-06 14:05:20.130] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-1} closing ...
+[2022-08-06 14:05:20.131] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:?] - {dataSource-1} closed
+[2022-08-06 14:05:20.132] [SpringApplicationShutdownHook] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:219] - dynamic-datasource all closed success,bye
+[2022-08-06 14:05:25.825] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 25148 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 14:05:25.827] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - The following 1 profile is active: "dev"
+[2022-08-06 14:05:27.924] [restartedMain] [INFO] [io.undertow.servlet:382] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 14:05:28.289] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-1,master} inited
+[2022-08-06 14:05:28.290] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 14:05:28.292] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 14:05:28.292] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 14:05:30.103] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:?] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 14:05:30.680] [restartedMain] [INFO] [io.undertow:?] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 14:05:30.688] [restartedMain] [INFO] [org.xnio:95] - XNIO version 3.8.7.Final
+[2022-08-06 14:05:30.697] [restartedMain] [INFO] [org.xnio.nio:?] - XNIO NIO Implementation Version 3.8.7.Final
+[2022-08-06 14:05:30.737] [restartedMain] [INFO] [org.jboss.threads:52] - JBoss Threads version 3.1.0.Final
+[2022-08-06 14:05:30.790] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Documentation plugins bootstrapped
+[2022-08-06 14:05:30.793] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:79] - Found 1 custom documentation plugin(s)
+[2022-08-06 14:05:30.822] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 14:05:30.907] [restartedMain] [INFO] [com.pengzy.SystemApplication:61] - Started SystemApplication in 5.9 seconds (JVM running for 7.473)
+[2022-08-06 14:05:33.967] [XNIO-1 task-1] [INFO] [io.undertow.servlet:382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2022-08-06 14:06:02.718] [SpringApplicationShutdownHook] [INFO] [io.undertow:?] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 14:06:02.723] [SpringApplicationShutdownHook] [INFO] [io.undertow.servlet:?] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+[2022-08-06 14:06:02.731] [SpringApplicationShutdownHook] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource start closing ....
+[2022-08-06 14:06:02.740] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 14:06:02.740] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-1} closing ...
+[2022-08-06 14:06:02.741] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:?] - {dataSource-1} closed
+[2022-08-06 14:06:02.741] [SpringApplicationShutdownHook] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:219] - dynamic-datasource all closed success,bye
+[2022-08-06 14:06:08.516] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 2224 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 14:06:08.517] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - The following 1 profile is active: "dev"
+[2022-08-06 14:06:10.500] [restartedMain] [INFO] [io.undertow.servlet:382] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 14:06:10.836] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-1,master} inited
+[2022-08-06 14:06:10.836] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 14:06:10.837] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 14:06:10.838] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 14:06:12.560] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:?] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 14:06:13.085] [restartedMain] [INFO] [io.undertow:120] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 14:06:13.092] [restartedMain] [INFO] [org.xnio:95] - XNIO version 3.8.7.Final
+[2022-08-06 14:06:13.100] [restartedMain] [INFO] [org.xnio.nio:?] - XNIO NIO Implementation Version 3.8.7.Final
+[2022-08-06 14:06:13.139] [restartedMain] [INFO] [org.jboss.threads:52] - JBoss Threads version 3.1.0.Final
+[2022-08-06 14:06:13.187] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:93] - Documentation plugins bootstrapped
+[2022-08-06 14:06:13.190] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Found 1 custom documentation plugin(s)
+[2022-08-06 14:06:13.218] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:?] - Scanning for api listing references
+[2022-08-06 14:06:13.276] [restartedMain] [INFO] [com.pengzy.SystemApplication:61] - Started SystemApplication in 5.582 seconds (JVM running for 7.181)
+[2022-08-06 14:06:16.599] [XNIO-1 task-1] [INFO] [io.undertow.servlet:382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2022-08-06 14:06:32.030] [SpringApplicationShutdownHook] [INFO] [io.undertow:259] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 14:06:32.036] [SpringApplicationShutdownHook] [INFO] [io.undertow.servlet:?] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+[2022-08-06 14:06:32.044] [SpringApplicationShutdownHook] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource start closing ....
+[2022-08-06 14:06:32.051] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:?] - {dataSource-0} closing ...
+[2022-08-06 14:06:32.052] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:?] - {dataSource-1} closing ...
+[2022-08-06 14:06:32.053] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:?] - {dataSource-1} closed
+[2022-08-06 14:06:32.053] [SpringApplicationShutdownHook] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource all closed success,bye
+[2022-08-06 14:06:37.629] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 24236 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 14:06:37.630] [restartedMain] [INFO] [com.pengzy.SystemApplication:640] - The following 1 profile is active: "dev"
+[2022-08-06 14:06:39.664] [restartedMain] [INFO] [io.undertow.servlet:382] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 14:06:40.010] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-1,master} inited
+[2022-08-06 14:06:40.011] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 14:06:40.012] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 14:06:40.012] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 14:06:41.816] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:?] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 14:06:42.363] [restartedMain] [INFO] [io.undertow:120] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 14:06:42.370] [restartedMain] [INFO] [org.xnio:?] - XNIO version 3.8.7.Final
+[2022-08-06 14:06:42.379] [restartedMain] [INFO] [org.xnio.nio:?] - XNIO NIO Implementation Version 3.8.7.Final
+[2022-08-06 14:06:42.418] [restartedMain] [INFO] [org.jboss.threads:?] - JBoss Threads version 3.1.0.Final
+[2022-08-06 14:06:42.468] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Documentation plugins bootstrapped
+[2022-08-06 14:06:42.471] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Found 2 custom documentation plugin(s)
+[2022-08-06 14:06:42.500] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:?] - Scanning for api listing references
+[2022-08-06 14:06:42.558] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:?] - Scanning for api listing references
+[2022-08-06 14:06:42.561] [restartedMain] [INFO] [s.d.s.w.r.operation.CachingOperationNameGenerator:41] - Generating unique operation named: openUsingPOST_1
+[2022-08-06 14:06:42.572] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - Started SystemApplication in 5.671 seconds (JVM running for 7.102)
+[2022-08-06 14:06:45.097] [XNIO-1 task-1] [INFO] [io.undertow.servlet:382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2022-08-06 14:07:06.114] [SpringApplicationShutdownHook] [INFO] [io.undertow:?] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 14:07:06.120] [SpringApplicationShutdownHook] [INFO] [io.undertow.servlet:382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+[2022-08-06 14:07:06.127] [SpringApplicationShutdownHook] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:215] - dynamic-datasource start closing ....
+[2022-08-06 14:07:06.133] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:?] - {dataSource-0} closing ...
+[2022-08-06 14:07:06.134] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-1} closing ...
+[2022-08-06 14:07:06.134] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:2116] - {dataSource-1} closed
+[2022-08-06 14:07:06.135] [SpringApplicationShutdownHook] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource all closed success,bye
+[2022-08-06 14:07:12.014] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 33908 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 14:07:12.015] [restartedMain] [INFO] [com.pengzy.SystemApplication:640] - The following 1 profile is active: "dev"
+[2022-08-06 14:07:13.981] [restartedMain] [INFO] [io.undertow.servlet:382] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 14:07:14.323] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-1,master} inited
+[2022-08-06 14:07:14.324] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 14:07:14.325] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 14:07:14.325] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 14:07:16.140] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:?] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 14:07:16.684] [restartedMain] [INFO] [io.undertow:?] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 14:07:16.691] [restartedMain] [INFO] [org.xnio:?] - XNIO version 3.8.7.Final
+[2022-08-06 14:07:16.699] [restartedMain] [INFO] [org.xnio.nio:?] - XNIO NIO Implementation Version 3.8.7.Final
+[2022-08-06 14:07:16.739] [restartedMain] [INFO] [org.jboss.threads:52] - JBoss Threads version 3.1.0.Final
+[2022-08-06 14:07:16.792] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Documentation plugins bootstrapped
+[2022-08-06 14:07:16.795] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Found 2 custom documentation plugin(s)
+[2022-08-06 14:07:16.826] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:?] - Scanning for api listing references
+[2022-08-06 14:07:16.839] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 14:07:16.896] [restartedMain] [INFO] [com.pengzy.SystemApplication:61] - Started SystemApplication in 5.676 seconds (JVM running for 7.137)
+[2022-08-06 14:07:20.043] [XNIO-1 task-1] [INFO] [io.undertow.servlet:382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2022-08-06 14:07:42.064] [SpringApplicationShutdownHook] [INFO] [io.undertow:?] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 14:07:42.071] [SpringApplicationShutdownHook] [INFO] [io.undertow.servlet:382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+[2022-08-06 14:07:42.080] [SpringApplicationShutdownHook] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:215] - dynamic-datasource start closing ....
+[2022-08-06 14:07:42.088] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 14:07:42.088] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-1} closing ...
+[2022-08-06 14:07:42.089] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:?] - {dataSource-1} closed
+[2022-08-06 14:07:42.089] [SpringApplicationShutdownHook] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource all closed success,bye
+[2022-08-06 14:07:49.602] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 27308 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 14:07:49.604] [restartedMain] [INFO] [com.pengzy.SystemApplication:640] - The following 1 profile is active: "dev"
+[2022-08-06 14:07:51.487] [restartedMain] [INFO] [io.undertow.servlet:382] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 14:07:51.813] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-1,master} inited
+[2022-08-06 14:07:51.814] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 14:07:51.816] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 14:07:51.816] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 14:07:53.602] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:?] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 14:07:54.191] [restartedMain] [INFO] [io.undertow:?] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 14:07:54.198] [restartedMain] [INFO] [org.xnio:?] - XNIO version 3.8.7.Final
+[2022-08-06 14:07:54.207] [restartedMain] [INFO] [org.xnio.nio:?] - XNIO NIO Implementation Version 3.8.7.Final
+[2022-08-06 14:07:54.246] [restartedMain] [INFO] [org.jboss.threads:?] - JBoss Threads version 3.1.0.Final
+[2022-08-06 14:07:54.295] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Documentation plugins bootstrapped
+[2022-08-06 14:07:54.298] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Found 2 custom documentation plugin(s)
+[2022-08-06 14:07:54.326] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:?] - Scanning for api listing references
+[2022-08-06 14:07:54.386] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 14:07:54.389] [restartedMain] [INFO] [s.d.s.w.r.operation.CachingOperationNameGenerator:41] - Generating unique operation named: openUsingPOST_1
+[2022-08-06 14:07:54.402] [restartedMain] [INFO] [com.pengzy.SystemApplication:61] - Started SystemApplication in 5.561 seconds (JVM running for 7.078)
+[2022-08-06 14:07:57.909] [XNIO-1 task-1] [INFO] [io.undertow.servlet:382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2022-08-06 14:09:46.837] [SpringApplicationShutdownHook] [INFO] [io.undertow:?] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 14:09:46.844] [SpringApplicationShutdownHook] [INFO] [io.undertow.servlet:382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+[2022-08-06 14:09:46.854] [SpringApplicationShutdownHook] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource start closing ....
+[2022-08-06 14:09:46.864] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 14:09:46.864] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-1} closing ...
+[2022-08-06 14:09:46.865] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:?] - {dataSource-1} closed
+[2022-08-06 14:09:46.865] [SpringApplicationShutdownHook] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:219] - dynamic-datasource all closed success,bye
+[2022-08-06 14:09:54.383] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 18064 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 14:09:54.384] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - The following 1 profile is active: "dev"
+[2022-08-06 14:09:56.617] [restartedMain] [INFO] [io.undertow.servlet:?] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 14:09:56.981] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-1,master} inited
+[2022-08-06 14:09:56.982] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 14:09:56.983] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 14:09:56.984] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 14:09:58.698] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:?] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 14:09:59.234] [restartedMain] [INFO] [io.undertow:?] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 14:09:59.242] [restartedMain] [INFO] [org.xnio:?] - XNIO version 3.8.7.Final
+[2022-08-06 14:09:59.250] [restartedMain] [INFO] [org.xnio.nio:58] - XNIO NIO Implementation Version 3.8.7.Final
+[2022-08-06 14:09:59.290] [restartedMain] [INFO] [org.jboss.threads:52] - JBoss Threads version 3.1.0.Final
+[2022-08-06 14:09:59.342] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Documentation plugins bootstrapped
+[2022-08-06 14:09:59.345] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Found 2 custom documentation plugin(s)
+[2022-08-06 14:09:59.374] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 14:09:59.431] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 14:09:59.434] [restartedMain] [INFO] [s.d.s.w.r.operation.CachingOperationNameGenerator:41] - Generating unique operation named: openUsingPOST_1
+[2022-08-06 14:09:59.446] [restartedMain] [INFO] [com.pengzy.SystemApplication:61] - Started SystemApplication in 5.778 seconds (JVM running for 7.277)
+[2022-08-06 14:33:47.688] [Thread-20] [INFO] [io.undertow:259] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 14:33:47.825] [Thread-20] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:215] - dynamic-datasource start closing ....
+[2022-08-06 14:33:47.838] [Thread-20] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 14:33:47.838] [Thread-20] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-1} closing ...
+[2022-08-06 14:33:47.840] [Thread-20] [INFO] [com.alibaba.druid.pool.DruidDataSource:2116] - {dataSource-1} closed
+[2022-08-06 14:33:47.841] [Thread-20] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:219] - dynamic-datasource all closed success,bye
+[2022-08-06 14:39:50.848] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 28352 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 14:39:50.850] [restartedMain] [INFO] [com.pengzy.SystemApplication:640] - The following 1 profile is active: "dev"
+[2022-08-06 14:39:53.110] [restartedMain] [INFO] [io.undertow.servlet:?] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 14:39:53.448] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-1,master} inited
+[2022-08-06 14:39:53.449] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 14:39:53.451] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 14:39:53.451] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 14:39:55.208] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 14:39:55.765] [restartedMain] [INFO] [io.undertow:?] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 14:39:55.773] [restartedMain] [INFO] [org.xnio:95] - XNIO version 3.8.7.Final
+[2022-08-06 14:39:55.781] [restartedMain] [INFO] [org.xnio.nio:58] - XNIO NIO Implementation Version 3.8.7.Final
+[2022-08-06 14:39:55.821] [restartedMain] [INFO] [org.jboss.threads:?] - JBoss Threads version 3.1.0.Final
+[2022-08-06 14:39:55.872] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Documentation plugins bootstrapped
+[2022-08-06 14:39:55.875] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Found 2 custom documentation plugin(s)
+[2022-08-06 14:39:55.905] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:?] - Scanning for api listing references
+[2022-08-06 14:39:55.963] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:?] - Scanning for api listing references
+[2022-08-06 14:39:55.966] [restartedMain] [INFO] [s.d.s.w.r.operation.CachingOperationNameGenerator:41] - Generating unique operation named: openUsingPOST_1
+[2022-08-06 14:39:55.978] [restartedMain] [INFO] [com.pengzy.SystemApplication:61] - Started SystemApplication in 5.963 seconds (JVM running for 7.493)
+[2022-08-06 14:40:07.846] [XNIO-1 task-1] [INFO] [io.undertow.servlet:382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2022-08-06 14:40:07.942] [XNIO-1 task-1] [INFO] [api-log:39] - 测试接口。。。。。
+[2022-08-06 14:40:07.955] [XNIO-1 task-1] [INFO] [api-log:180] - 【请求ID】: 1555805905210155009 -【title】：第一个入口方法
+[2022-08-06 14:40:07.955] [XNIO-1 task-1] [INFO] [api-log:181] - 【请求方法为】：open
+[2022-08-06 14:40:07.955] [XNIO-1 task-1] [INFO] [api-log:182] - 【请求参数为(body)】：[]
+[2022-08-06 14:40:07.984] [XNIO-1 task-1] [INFO] [api-log:183] - 【请求参数为(param)】：{}
+[2022-08-06 14:40:07.985] [XNIO-1 task-1] [INFO] [api-log:184] - 【返回内容为】：null
+[2022-08-06 14:40:07.986] [XNIO-1 task-1] [INFO] [api-log:185] - 【耗时(s)】:0.0162817s -【耗时(ms)】:16ms
+[2022-08-06 15:13:29.514] [SpringApplicationShutdownHook] [INFO] [io.undertow:?] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 15:13:29.520] [SpringApplicationShutdownHook] [INFO] [io.undertow.servlet:382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+[2022-08-06 15:13:29.526] [SpringApplicationShutdownHook] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource start closing ....
+[2022-08-06 15:13:29.532] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 15:13:29.532] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-1} closing ...
+[2022-08-06 15:13:29.533] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:?] - {dataSource-1} closed
+[2022-08-06 15:13:29.533] [SpringApplicationShutdownHook] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:219] - dynamic-datasource all closed success,bye
+[2022-08-06 15:13:37.149] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 23472 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 15:13:37.151] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - The following 1 profile is active: "dev"
+[2022-08-06 15:13:39.453] [restartedMain] [INFO] [io.undertow.servlet:?] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 15:13:39.815] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-1,master} inited
+[2022-08-06 15:13:39.816] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 15:13:39.817] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 15:13:39.817] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 15:13:41.661] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 15:13:42.238] [restartedMain] [INFO] [io.undertow:120] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 15:13:42.245] [restartedMain] [INFO] [org.xnio:?] - XNIO version 3.8.7.Final
+[2022-08-06 15:13:42.253] [restartedMain] [INFO] [org.xnio.nio:58] - XNIO NIO Implementation Version 3.8.7.Final
+[2022-08-06 15:13:42.292] [restartedMain] [INFO] [org.jboss.threads:52] - JBoss Threads version 3.1.0.Final
+[2022-08-06 15:13:42.341] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:93] - Documentation plugins bootstrapped
+[2022-08-06 15:13:42.343] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Found 2 custom documentation plugin(s)
+[2022-08-06 15:13:42.371] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 15:13:42.468] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 15:13:42.476] [restartedMain] [INFO] [s.d.s.w.r.operation.CachingOperationNameGenerator:41] - Generating unique operation named: openUsingPOST_1
+[2022-08-06 15:13:42.487] [restartedMain] [INFO] [com.pengzy.SystemApplication:61] - Started SystemApplication in 6.122 seconds (JVM running for 7.765)
+[2022-08-06 15:14:12.139] [XNIO-1 task-1] [INFO] [io.undertow.servlet:382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2022-08-06 15:14:12.189] [XNIO-1 task-1] [INFO] [api-log:41] - 测试接口。。。。。
+[2022-08-06 15:14:12.201] [XNIO-1 task-1] [INFO] [api-log:180] - 【请求ID】: 1555814479407734785 -【title】：第一个入口方法
+[2022-08-06 15:14:12.201] [XNIO-1 task-1] [INFO] [api-log:181] - 【请求方法为】：open
+[2022-08-06 15:14:12.202] [XNIO-1 task-1] [INFO] [api-log:182] - 【请求参数为(body)】：[]
+[2022-08-06 15:14:12.227] [XNIO-1 task-1] [INFO] [api-log:183] - 【请求参数为(param)】：{}
+[2022-08-06 15:14:12.228] [XNIO-1 task-1] [INFO] [api-log:184] - 【返回内容为】：null
+[2022-08-06 15:14:12.228] [XNIO-1 task-1] [INFO] [api-log:185] - 【耗时(s)】:0.0154866s -【耗时(ms)】:15ms
+[2022-08-06 15:16:02.423] [SpringApplicationShutdownHook] [INFO] [io.undertow:259] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 15:16:02.431] [SpringApplicationShutdownHook] [INFO] [io.undertow.servlet:382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+[2022-08-06 15:16:02.439] [SpringApplicationShutdownHook] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:215] - dynamic-datasource start closing ....
+[2022-08-06 15:16:02.448] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 15:16:02.449] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-1} closing ...
+[2022-08-06 15:16:02.450] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:?] - {dataSource-1} closed
+[2022-08-06 15:16:02.450] [SpringApplicationShutdownHook] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:219] - dynamic-datasource all closed success,bye
+[2022-08-06 15:16:08.352] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 29992 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 15:16:08.353] [restartedMain] [INFO] [com.pengzy.SystemApplication:640] - The following 1 profile is active: "dev"
+[2022-08-06 15:16:10.923] [restartedMain] [INFO] [io.undertow.servlet:?] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 15:16:11.275] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-1,master} inited
+[2022-08-06 15:16:11.276] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 15:16:11.277] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 15:16:11.277] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 15:16:12.993] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:?] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 15:16:13.553] [restartedMain] [INFO] [io.undertow:120] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 15:16:13.560] [restartedMain] [INFO] [org.xnio:?] - XNIO version 3.8.7.Final
+[2022-08-06 15:16:13.568] [restartedMain] [INFO] [org.xnio.nio:58] - XNIO NIO Implementation Version 3.8.7.Final
+[2022-08-06 15:16:13.607] [restartedMain] [INFO] [org.jboss.threads:?] - JBoss Threads version 3.1.0.Final
+[2022-08-06 15:16:13.659] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Documentation plugins bootstrapped
+[2022-08-06 15:16:13.662] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Found 2 custom documentation plugin(s)
+[2022-08-06 15:16:13.691] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 15:16:13.797] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 15:16:13.806] [restartedMain] [INFO] [s.d.s.w.r.operation.CachingOperationNameGenerator:41] - Generating unique operation named: openUsingPOST_1
+[2022-08-06 15:16:13.822] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - Started SystemApplication in 6.29 seconds (JVM running for 7.895)
+[2022-08-06 15:16:17.854] [XNIO-1 task-1] [INFO] [io.undertow.servlet:382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2022-08-06 15:16:17.896] [XNIO-1 task-1] [INFO] [api-log:41] - 测试接口。。。。。
+[2022-08-06 15:16:17.906] [XNIO-1 task-1] [INFO] [api-log:180] - 【请求ID】: 1555815006665289729 -【title】：第一个入口方法
+[2022-08-06 15:16:17.906] [XNIO-1 task-1] [INFO] [api-log:181] - 【请求方法为】：open
+[2022-08-06 15:16:17.907] [XNIO-1 task-1] [INFO] [api-log:182] - 【请求参数为(body)】：[]
+[2022-08-06 15:16:17.929] [XNIO-1 task-1] [INFO] [api-log:183] - 【请求参数为(param)】：{}
+[2022-08-06 15:16:17.929] [XNIO-1 task-1] [INFO] [api-log:184] - 【返回内容为】：null
+[2022-08-06 15:16:17.929] [XNIO-1 task-1] [INFO] [api-log:185] - 【耗时(s)】:0.0132697s -【耗时(ms)】:13ms
+[2022-08-06 15:18:51.546] [Thread-19] [INFO] [io.undertow:?] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 15:18:51.554] [Thread-19] [INFO] [io.undertow.servlet:382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+[2022-08-06 15:18:51.561] [Thread-19] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource start closing ....
+[2022-08-06 15:18:51.568] [Thread-19] [INFO] [com.alibaba.druid.pool.DruidDataSource:?] - {dataSource-0} closing ...
+[2022-08-06 15:18:51.568] [Thread-19] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-1} closing ...
+[2022-08-06 15:18:51.569] [Thread-19] [INFO] [com.alibaba.druid.pool.DruidDataSource:?] - {dataSource-1} closed
+[2022-08-06 15:18:51.569] [Thread-19] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:219] - dynamic-datasource all closed success,bye
+[2022-08-06 15:18:51.868] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 29992 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 15:18:51.868] [restartedMain] [INFO] [com.pengzy.SystemApplication:640] - The following 1 profile is active: "dev"
+[2022-08-06 15:18:52.744] [restartedMain] [INFO] [io.undertow.servlet:382] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 15:18:52.825] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-2,master} inited
+[2022-08-06 15:18:52.825] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 15:18:52.825] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 15:18:52.825] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 15:18:54.033] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 15:18:54.603] [restartedMain] [INFO] [io.undertow:120] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 15:18:54.623] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:93] - Documentation plugins bootstrapped
+[2022-08-06 15:18:54.623] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:79] - Found 2 custom documentation plugin(s)
+[2022-08-06 15:18:54.634] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 15:18:54.657] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:?] - Scanning for api listing references
+[2022-08-06 15:18:54.672] [restartedMain] [INFO] [s.d.s.w.r.operation.CachingOperationNameGenerator:?] - Generating unique operation named: openUsingPOST_1
+[2022-08-06 15:18:54.679] [restartedMain] [INFO] [com.pengzy.SystemApplication:61] - Started SystemApplication in 2.941 seconds (JVM running for 168.752)
+[2022-08-06 15:18:56.065] [Thread-28] [INFO] [io.undertow:259] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 15:18:56.072] [Thread-28] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource start closing ....
+[2022-08-06 15:18:56.073] [Thread-28] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 15:18:56.073] [Thread-28] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-2} closing ...
+[2022-08-06 15:18:56.073] [Thread-28] [INFO] [com.alibaba.druid.pool.DruidDataSource:2116] - {dataSource-2} closed
+[2022-08-06 15:18:56.073] [Thread-28] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:219] - dynamic-datasource all closed success,bye
+[2022-08-06 15:18:56.373] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 29992 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 15:18:56.373] [restartedMain] [INFO] [com.pengzy.SystemApplication:640] - The following 1 profile is active: "dev"
+[2022-08-06 15:18:57.070] [restartedMain] [INFO] [io.undertow.servlet:382] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 15:18:57.287] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-3,master} inited
+[2022-08-06 15:18:57.288] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 15:18:57.288] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 15:18:57.288] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 15:18:58.605] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 15:18:58.960] [restartedMain] [INFO] [io.undertow:120] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 15:18:58.977] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Documentation plugins bootstrapped
+[2022-08-06 15:18:58.978] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:79] - Found 2 custom documentation plugin(s)
+[2022-08-06 15:18:58.986] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 15:18:59.012] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 15:18:59.025] [restartedMain] [INFO] [s.d.s.w.r.operation.CachingOperationNameGenerator:41] - Generating unique operation named: openUsingPOST_1
+[2022-08-06 15:18:59.031] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - Started SystemApplication in 2.751 seconds (JVM running for 173.105)
+[2022-08-06 15:29:51.703] [SpringApplicationShutdownHook] [INFO] [io.undertow:?] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 15:29:51.713] [SpringApplicationShutdownHook] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:215] - dynamic-datasource start closing ....
+[2022-08-06 15:29:51.713] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 15:29:51.713] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-3} closing ...
+[2022-08-06 15:29:51.714] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:2116] - {dataSource-3} closed
+[2022-08-06 15:29:51.714] [SpringApplicationShutdownHook] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:219] - dynamic-datasource all closed success,bye
+[2022-08-06 15:29:57.656] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 21728 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 15:29:57.657] [restartedMain] [INFO] [com.pengzy.SystemApplication:640] - The following 1 profile is active: "dev"
+[2022-08-06 15:30:00.095] [restartedMain] [INFO] [io.undertow.servlet:?] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 15:30:00.452] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-1,master} inited
+[2022-08-06 15:30:00.453] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 15:30:00.454] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 15:30:00.455] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 15:30:02.263] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 15:30:02.838] [restartedMain] [INFO] [io.undertow:?] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 15:30:02.845] [restartedMain] [INFO] [org.xnio:?] - XNIO version 3.8.7.Final
+[2022-08-06 15:30:02.855] [restartedMain] [INFO] [org.xnio.nio:?] - XNIO NIO Implementation Version 3.8.7.Final
+[2022-08-06 15:30:02.895] [restartedMain] [INFO] [org.jboss.threads:52] - JBoss Threads version 3.1.0.Final
+[2022-08-06 15:30:02.948] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Documentation plugins bootstrapped
+[2022-08-06 15:30:02.950] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Found 2 custom documentation plugin(s)
+[2022-08-06 15:30:02.983] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:?] - Scanning for api listing references
+[2022-08-06 15:30:03.086] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:?] - Scanning for api listing references
+[2022-08-06 15:30:03.095] [restartedMain] [INFO] [s.d.s.w.r.operation.CachingOperationNameGenerator:41] - Generating unique operation named: openUsingPOST_1
+[2022-08-06 15:30:03.107] [restartedMain] [INFO] [com.pengzy.SystemApplication:61] - Started SystemApplication in 6.229 seconds (JVM running for 7.846)
+[2022-08-06 15:30:50.221] [XNIO-1 task-1] [INFO] [io.undertow.servlet:382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2022-08-06 15:30:50.261] [XNIO-1 task-1] [INFO] [api-log:41] - 测试接口。。。。。
+[2022-08-06 15:30:50.270] [XNIO-1 task-1] [INFO] [api-log:180] - 【请求ID】: 1555818665633439746 -【title】：第一个入口方法
+[2022-08-06 15:30:50.270] [XNIO-1 task-1] [INFO] [api-log:181] - 【请求方法为】：open
+[2022-08-06 15:30:50.271] [XNIO-1 task-1] [INFO] [api-log:182] - 【请求参数为(body)】：[]
+[2022-08-06 15:30:50.291] [XNIO-1 task-1] [INFO] [api-log:183] - 【请求参数为(param)】：{}
+[2022-08-06 15:30:50.292] [XNIO-1 task-1] [INFO] [api-log:184] - 【返回内容为】：null
+[2022-08-06 15:30:50.292] [XNIO-1 task-1] [INFO] [api-log:185] - 【耗时(s)】:0.0113945s -【耗时(ms)】:11ms
+[2022-08-06 15:42:24.286] [Thread-22] [INFO] [io.undertow:259] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 15:42:24.293] [Thread-22] [INFO] [io.undertow.servlet:382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+[2022-08-06 15:42:24.302] [Thread-22] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:215] - dynamic-datasource start closing ....
+[2022-08-06 15:42:24.312] [Thread-22] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 15:42:24.312] [Thread-22] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-1} closing ...
+[2022-08-06 15:42:24.313] [Thread-22] [INFO] [com.alibaba.druid.pool.DruidDataSource:2116] - {dataSource-1} closed
+[2022-08-06 15:42:24.314] [Thread-22] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:219] - dynamic-datasource all closed success,bye
+[2022-08-06 15:42:24.622] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 21728 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 15:42:24.622] [restartedMain] [INFO] [com.pengzy.SystemApplication:640] - The following 1 profile is active: "dev"
+[2022-08-06 15:42:25.663] [restartedMain] [INFO] [io.undertow.servlet:382] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 15:42:25.745] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-2,master} inited
+[2022-08-06 15:42:25.745] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 15:42:25.745] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 15:42:25.745] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 15:42:26.874] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:?] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 15:42:27.311] [restartedMain] [INFO] [io.undertow:120] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 15:42:27.326] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:93] - Documentation plugins bootstrapped
+[2022-08-06 15:42:27.327] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:79] - Found 2 custom documentation plugin(s)
+[2022-08-06 15:42:27.335] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 15:42:27.357] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 15:42:27.366] [restartedMain] [INFO] [s.d.s.w.r.operation.CachingOperationNameGenerator:41] - Generating unique operation named: openUsingPOST_1
+[2022-08-06 15:42:27.372] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - Started SystemApplication in 2.88 seconds (JVM running for 752.111)
+[2022-08-06 15:42:28.758] [Thread-30] [INFO] [io.undertow:?] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 15:42:28.765] [Thread-30] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource start closing ....
+[2022-08-06 15:42:28.765] [Thread-30] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 15:42:28.765] [Thread-30] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-2} closing ...
+[2022-08-06 15:42:28.765] [Thread-30] [INFO] [com.alibaba.druid.pool.DruidDataSource:2116] - {dataSource-2} closed
+[2022-08-06 15:42:28.765] [Thread-30] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:219] - dynamic-datasource all closed success,bye
+[2022-08-06 15:42:29.073] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 21728 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 15:42:29.073] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - The following 1 profile is active: "dev"
+[2022-08-06 15:42:29.691] [restartedMain] [INFO] [io.undertow.servlet:382] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 15:42:29.755] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-3,master} inited
+[2022-08-06 15:42:29.755] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 15:42:29.755] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 15:42:29.755] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 15:42:30.612] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 15:42:30.903] [restartedMain] [INFO] [io.undertow:120] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 15:42:30.917] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Documentation plugins bootstrapped
+[2022-08-06 15:42:30.918] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Found 2 custom documentation plugin(s)
+[2022-08-06 15:42:30.925] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 15:42:30.940] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 15:42:30.947] [restartedMain] [INFO] [s.d.s.w.r.operation.CachingOperationNameGenerator:41] - Generating unique operation named: openUsingPOST_1
+[2022-08-06 15:42:30.951] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - Started SystemApplication in 1.969 seconds (JVM running for 755.69)
+[2022-08-06 15:49:54.774] [Thread-40] [INFO] [io.undertow:259] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 15:49:54.791] [Thread-40] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:215] - dynamic-datasource start closing ....
+[2022-08-06 15:49:54.791] [Thread-40] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 15:49:54.791] [Thread-40] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-3} closing ...
+[2022-08-06 15:49:54.792] [Thread-40] [INFO] [com.alibaba.druid.pool.DruidDataSource:2116] - {dataSource-3} closed
+[2022-08-06 15:49:54.792] [Thread-40] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:219] - dynamic-datasource all closed success,bye
+[2022-08-06 15:49:55.259] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 21728 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 15:49:55.259] [restartedMain] [INFO] [com.pengzy.SystemApplication:640] - The following 1 profile is active: "dev"
+[2022-08-06 15:49:56.128] [restartedMain] [INFO] [io.undertow.servlet:382] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 15:55:11.794] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 21728 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 15:55:11.794] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - The following 1 profile is active: "dev"
+[2022-08-06 15:55:12.616] [restartedMain] [INFO] [io.undertow.servlet:382] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 15:55:12.712] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-4,master} inited
+[2022-08-06 15:55:12.712] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 15:55:12.713] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 15:55:12.713] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 15:55:13.610] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 15:55:13.902] [restartedMain] [INFO] [io.undertow:120] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 15:55:13.915] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:93] - Documentation plugins bootstrapped
+[2022-08-06 15:55:13.915] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:79] - Found 2 custom documentation plugin(s)
+[2022-08-06 15:55:13.923] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 15:55:13.939] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 15:55:13.945] [restartedMain] [INFO] [s.d.s.w.r.operation.CachingOperationNameGenerator:41] - Generating unique operation named: openUsingPOST_1
+[2022-08-06 15:55:13.950] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - Started SystemApplication in 2.252 seconds (JVM running for 1518.688)
+[2022-08-06 15:55:15.355] [Thread-50] [INFO] [io.undertow:259] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 15:55:15.362] [Thread-50] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:215] - dynamic-datasource start closing ....
+[2022-08-06 15:55:15.362] [Thread-50] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 15:55:15.362] [Thread-50] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-4} closing ...
+[2022-08-06 15:55:15.363] [Thread-50] [INFO] [com.alibaba.druid.pool.DruidDataSource:2116] - {dataSource-4} closed
+[2022-08-06 15:55:15.363] [Thread-50] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource all closed success,bye
+[2022-08-06 15:55:15.744] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 21728 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 15:55:15.744] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - The following 1 profile is active: "dev"
+[2022-08-06 15:55:16.488] [restartedMain] [INFO] [io.undertow.servlet:382] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 15:55:16.558] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-5,master} inited
+[2022-08-06 15:55:16.558] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 15:55:16.558] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 15:55:16.559] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 15:55:17.354] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:?] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 15:55:17.636] [restartedMain] [INFO] [io.undertow:?] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 15:55:17.648] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:93] - Documentation plugins bootstrapped
+[2022-08-06 15:55:17.649] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Found 2 custom documentation plugin(s)
+[2022-08-06 15:55:17.656] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 15:55:17.671] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 15:55:17.678] [restartedMain] [INFO] [s.d.s.w.r.operation.CachingOperationNameGenerator:41] - Generating unique operation named: openUsingPOST_1
+[2022-08-06 15:55:17.682] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - Started SystemApplication in 2.031 seconds (JVM running for 1522.421)
+[2022-08-06 15:58:10.447] [SpringApplicationShutdownHook] [INFO] [io.undertow:259] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 15:58:10.456] [SpringApplicationShutdownHook] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:215] - dynamic-datasource start closing ....
+[2022-08-06 15:58:10.456] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 15:58:10.457] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-5} closing ...
+[2022-08-06 15:58:10.457] [SpringApplicationShutdownHook] [INFO] [com.alibaba.druid.pool.DruidDataSource:2116] - {dataSource-5} closed
+[2022-08-06 15:58:10.457] [SpringApplicationShutdownHook] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:219] - dynamic-datasource all closed success,bye
+[2022-08-06 16:01:40.214] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 2024 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 16:01:40.216] [restartedMain] [INFO] [com.pengzy.SystemApplication:640] - The following 1 profile is active: "dev"
+[2022-08-06 16:01:42.263] [restartedMain] [INFO] [io.undertow.servlet:?] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 16:01:42.611] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-1,master} inited
+[2022-08-06 16:01:42.612] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 16:01:42.613] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 16:01:42.613] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 16:01:44.440] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 16:01:45.001] [restartedMain] [INFO] [io.undertow:120] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 16:01:45.010] [restartedMain] [INFO] [org.xnio:?] - XNIO version 3.8.7.Final
+[2022-08-06 16:01:45.020] [restartedMain] [INFO] [org.xnio.nio:?] - XNIO NIO Implementation Version 3.8.7.Final
+[2022-08-06 16:01:45.058] [restartedMain] [INFO] [org.jboss.threads:?] - JBoss Threads version 3.1.0.Final
+[2022-08-06 16:01:45.109] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Documentation plugins bootstrapped
+[2022-08-06 16:01:45.112] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Found 2 custom documentation plugin(s)
+[2022-08-06 16:01:45.139] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 16:01:45.242] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 16:01:45.250] [restartedMain] [INFO] [s.d.s.w.r.operation.CachingOperationNameGenerator:41] - Generating unique operation named: openUsingPOST_1
+[2022-08-06 16:01:45.261] [restartedMain] [INFO] [com.pengzy.SystemApplication:61] - Started SystemApplication in 5.761 seconds (JVM running for 7.165)
+[2022-08-06 16:02:23.430] [XNIO-1 task-1] [INFO] [io.undertow.servlet:382] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2022-08-06 16:36:59.262] [Thread-21] [INFO] [io.undertow:?] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 16:36:59.288] [Thread-21] [INFO] [io.undertow.servlet:382] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+[2022-08-06 16:36:59.304] [Thread-21] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource start closing ....
+[2022-08-06 16:36:59.311] [Thread-21] [INFO] [com.alibaba.druid.pool.DruidDataSource:?] - {dataSource-0} closing ...
+[2022-08-06 16:36:59.311] [Thread-21] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-1} closing ...
+[2022-08-06 16:36:59.312] [Thread-21] [INFO] [com.alibaba.druid.pool.DruidDataSource:2116] - {dataSource-1} closed
+[2022-08-06 16:36:59.312] [Thread-21] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource all closed success,bye
+[2022-08-06 16:36:59.581] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 2024 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 16:36:59.581] [restartedMain] [INFO] [com.pengzy.SystemApplication:640] - The following 1 profile is active: "dev"
+[2022-08-06 16:37:00.454] [restartedMain] [INFO] [io.undertow.servlet:382] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 16:37:00.528] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-2,master} inited
+[2022-08-06 16:37:00.528] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 16:37:00.528] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 16:37:00.528] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 16:37:01.475] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 16:37:01.781] [restartedMain] [INFO] [io.undertow:120] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 16:37:01.796] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:93] - Documentation plugins bootstrapped
+[2022-08-06 16:37:01.797] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:79] - Found 2 custom documentation plugin(s)
+[2022-08-06 16:37:01.804] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 16:37:01.826] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 16:37:01.833] [restartedMain] [INFO] [s.d.s.w.r.operation.CachingOperationNameGenerator:41] - Generating unique operation named: openUsingPOST_1
+[2022-08-06 16:37:01.838] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - Started SystemApplication in 2.389 seconds (JVM running for 2123.742)
+[2022-08-06 16:37:44.523] [Thread-29] [INFO] [io.undertow:?] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 16:37:44.531] [Thread-29] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:215] - dynamic-datasource start closing ....
+[2022-08-06 16:37:44.531] [Thread-29] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 16:37:44.531] [Thread-29] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-2} closing ...
+[2022-08-06 16:37:44.532] [Thread-29] [INFO] [com.alibaba.druid.pool.DruidDataSource:2116] - {dataSource-2} closed
+[2022-08-06 16:37:44.532] [Thread-29] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource all closed success,bye
+[2022-08-06 16:37:44.884] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 2024 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 16:37:44.884] [restartedMain] [INFO] [com.pengzy.SystemApplication:640] - The following 1 profile is active: "dev"
+[2022-08-06 16:37:45.716] [restartedMain] [INFO] [io.undertow.servlet:382] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 16:37:45.788] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-3,master} inited
+[2022-08-06 16:37:45.788] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 16:37:45.789] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 16:37:45.789] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 16:37:46.711] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 16:37:47.412] [restartedMain] [INFO] [io.undertow:120] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 16:37:47.431] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:93] - Documentation plugins bootstrapped
+[2022-08-06 16:37:47.432] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:79] - Found 2 custom documentation plugin(s)
+[2022-08-06 16:37:47.440] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 16:37:47.463] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 16:37:47.473] [restartedMain] [INFO] [s.d.s.w.r.operation.CachingOperationNameGenerator:41] - Generating unique operation named: openUsingPOST_1
+[2022-08-06 16:37:47.480] [restartedMain] [INFO] [com.pengzy.SystemApplication:61] - Started SystemApplication in 2.696 seconds (JVM running for 2169.384)
+[2022-08-06 16:37:54.054] [Thread-39] [INFO] [io.undertow:259] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 16:37:54.060] [Thread-39] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:215] - dynamic-datasource start closing ....
+[2022-08-06 16:37:54.060] [Thread-39] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 16:37:54.060] [Thread-39] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-3} closing ...
+[2022-08-06 16:37:54.060] [Thread-39] [INFO] [com.alibaba.druid.pool.DruidDataSource:2116] - {dataSource-3} closed
+[2022-08-06 16:37:54.060] [Thread-39] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource all closed success,bye
+[2022-08-06 16:37:54.399] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 2024 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 16:37:54.399] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - The following 1 profile is active: "dev"
+[2022-08-06 16:37:55.203] [restartedMain] [INFO] [io.undertow.servlet:382] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 16:37:55.282] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-4,master} inited
+[2022-08-06 16:37:55.283] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 16:37:55.283] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 16:37:55.283] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 16:37:56.228] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:?] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 16:37:56.529] [restartedMain] [INFO] [io.undertow:?] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 16:37:56.544] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:93] - Documentation plugins bootstrapped
+[2022-08-06 16:37:56.545] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:79] - Found 2 custom documentation plugin(s)
+[2022-08-06 16:37:56.553] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 16:37:56.571] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 16:37:56.578] [restartedMain] [INFO] [s.d.s.w.r.operation.CachingOperationNameGenerator:41] - Generating unique operation named: openUsingPOST_1
+[2022-08-06 16:37:56.583] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - Started SystemApplication in 2.282 seconds (JVM running for 2178.487)
+[2022-08-06 16:40:21.871] [Thread-49] [INFO] [io.undertow:259] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 16:40:21.881] [Thread-49] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:215] - dynamic-datasource start closing ....
+[2022-08-06 16:40:21.881] [Thread-49] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 16:40:21.881] [Thread-49] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-4} closing ...
+[2022-08-06 16:40:21.882] [Thread-49] [INFO] [com.alibaba.druid.pool.DruidDataSource:2116] - {dataSource-4} closed
+[2022-08-06 16:40:21.882] [Thread-49] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:219] - dynamic-datasource all closed success,bye
+[2022-08-06 16:40:22.350] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 2024 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 16:40:22.350] [restartedMain] [INFO] [com.pengzy.SystemApplication:640] - The following 1 profile is active: "dev"
+[2022-08-06 16:40:23.772] [restartedMain] [INFO] [io.undertow.servlet:382] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 16:40:23.860] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-5,master} inited
+[2022-08-06 16:40:23.861] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 16:40:23.861] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 16:40:23.861] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 16:40:25.105] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 16:40:25.439] [restartedMain] [INFO] [io.undertow:120] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 16:40:25.452] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Documentation plugins bootstrapped
+[2022-08-06 16:40:25.453] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Found 2 custom documentation plugin(s)
+[2022-08-06 16:40:25.460] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:?] - Scanning for api listing references
+[2022-08-06 16:40:25.480] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 16:40:25.489] [restartedMain] [INFO] [s.d.s.w.r.operation.CachingOperationNameGenerator:41] - Generating unique operation named: openUsingPOST_1
+[2022-08-06 16:40:25.495] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - Started SystemApplication in 3.277 seconds (JVM running for 2327.399)
+[2022-08-06 16:40:26.903] [Thread-59] [INFO] [io.undertow:259] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 16:40:26.909] [Thread-59] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource start closing ....
+[2022-08-06 16:40:26.909] [Thread-59] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 16:40:26.910] [Thread-59] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-5} closing ...
+[2022-08-06 16:40:26.910] [Thread-59] [INFO] [com.alibaba.druid.pool.DruidDataSource:2116] - {dataSource-5} closed
+[2022-08-06 16:40:26.910] [Thread-59] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:219] - dynamic-datasource all closed success,bye
+[2022-08-06 16:40:27.170] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 2024 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 16:40:27.170] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - The following 1 profile is active: "dev"
+[2022-08-06 16:40:27.827] [restartedMain] [INFO] [io.undertow.servlet:?] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 16:40:27.901] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-6,master} inited
+[2022-08-06 16:40:27.901] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 16:40:27.901] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 16:40:27.901] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 16:40:28.794] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 16:40:29.103] [restartedMain] [INFO] [io.undertow:120] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 16:40:29.115] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:93] - Documentation plugins bootstrapped
+[2022-08-06 16:40:29.116] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:79] - Found 2 custom documentation plugin(s)
+[2022-08-06 16:40:29.124] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 16:40:29.151] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 16:40:29.157] [restartedMain] [INFO] [s.d.s.w.r.operation.CachingOperationNameGenerator:41] - Generating unique operation named: openUsingPOST_1
+[2022-08-06 16:40:29.161] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - Started SystemApplication in 2.076 seconds (JVM running for 2331.065)
+[2022-08-06 16:45:01.040] [Thread-69] [INFO] [io.undertow:259] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 16:45:01.047] [Thread-69] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:215] - dynamic-datasource start closing ....
+[2022-08-06 16:45:01.047] [Thread-69] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 16:45:01.047] [Thread-69] [INFO] [com.alibaba.druid.pool.DruidDataSource:?] - {dataSource-6} closing ...
+[2022-08-06 16:45:01.047] [Thread-69] [INFO] [com.alibaba.druid.pool.DruidDataSource:2116] - {dataSource-6} closed
+[2022-08-06 16:45:01.047] [Thread-69] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:219] - dynamic-datasource all closed success,bye
+[2022-08-06 16:45:01.453] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 2024 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 16:45:01.453] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - The following 1 profile is active: "dev"
+[2022-08-06 16:45:02.421] [restartedMain] [INFO] [io.undertow.servlet:382] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 16:45:02.508] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-7,master} inited
+[2022-08-06 16:45:02.508] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 16:45:02.509] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 16:45:02.509] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 16:45:03.532] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 16:45:03.945] [restartedMain] [INFO] [io.undertow:120] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 16:45:03.959] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Documentation plugins bootstrapped
+[2022-08-06 16:45:03.959] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:79] - Found 2 custom documentation plugin(s)
+[2022-08-06 16:45:03.967] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 16:45:03.985] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 16:45:03.993] [restartedMain] [INFO] [s.d.s.w.r.operation.CachingOperationNameGenerator:41] - Generating unique operation named: openUsingPOST_1
+[2022-08-06 16:45:03.999] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - Started SystemApplication in 2.659 seconds (JVM running for 2605.903)
+[2022-08-06 16:45:05.392] [Thread-79] [INFO] [io.undertow:259] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 16:45:05.397] [Thread-79] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:215] - dynamic-datasource start closing ....
+[2022-08-06 16:45:05.397] [Thread-79] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 16:45:05.398] [Thread-79] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-7} closing ...
+[2022-08-06 16:45:05.398] [Thread-79] [INFO] [com.alibaba.druid.pool.DruidDataSource:2116] - {dataSource-7} closed
+[2022-08-06 16:45:05.398] [Thread-79] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:219] - dynamic-datasource all closed success,bye
+[2022-08-06 16:45:05.673] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 2024 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 16:45:05.673] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - The following 1 profile is active: "dev"
+[2022-08-06 16:45:06.582] [restartedMain] [INFO] [io.undertow.servlet:382] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 16:45:06.647] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-8,master} inited
+[2022-08-06 16:45:06.647] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 16:45:06.647] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 16:45:06.647] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 16:45:07.477] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:?] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 16:45:07.772] [restartedMain] [INFO] [io.undertow:120] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 16:45:07.789] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:93] - Documentation plugins bootstrapped
+[2022-08-06 16:45:07.790] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:79] - Found 2 custom documentation plugin(s)
+[2022-08-06 16:45:07.796] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 16:45:07.811] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 16:45:07.817] [restartedMain] [INFO] [s.d.s.w.r.operation.CachingOperationNameGenerator:41] - Generating unique operation named: openUsingPOST_1
+[2022-08-06 16:45:07.821] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - Started SystemApplication in 2.226 seconds (JVM running for 2609.725)
+[2022-08-06 16:45:35.273] [Thread-89] [INFO] [io.undertow:259] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 16:45:35.278] [Thread-89] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource start closing ....
+[2022-08-06 16:45:35.278] [Thread-89] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 16:45:35.279] [Thread-89] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-8} closing ...
+[2022-08-06 16:45:35.279] [Thread-89] [INFO] [com.alibaba.druid.pool.DruidDataSource:?] - {dataSource-8} closed
+[2022-08-06 16:45:35.279] [Thread-89] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:219] - dynamic-datasource all closed success,bye
+[2022-08-06 16:45:35.746] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 2024 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 16:45:35.746] [restartedMain] [INFO] [com.pengzy.SystemApplication:640] - The following 1 profile is active: "dev"
+[2022-08-06 16:45:36.756] [restartedMain] [INFO] [io.undertow.servlet:382] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 16:45:36.837] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-9,master} inited
+[2022-08-06 16:45:36.838] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 16:45:36.838] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 16:45:36.838] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 16:45:37.890] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 16:45:38.290] [restartedMain] [INFO] [io.undertow:120] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 16:45:38.306] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:93] - Documentation plugins bootstrapped
+[2022-08-06 16:45:38.307] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Found 2 custom documentation plugin(s)
+[2022-08-06 16:45:38.316] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 16:45:38.337] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 16:45:38.343] [restartedMain] [INFO] [s.d.s.w.r.operation.CachingOperationNameGenerator:41] - Generating unique operation named: openUsingPOST_1
+[2022-08-06 16:45:38.349] [restartedMain] [INFO] [com.pengzy.SystemApplication:61] - Started SystemApplication in 2.701 seconds (JVM running for 2640.253)
+[2022-08-06 16:45:39.746] [Thread-99] [INFO] [io.undertow:259] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 16:45:39.753] [Thread-99] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:215] - dynamic-datasource start closing ....
+[2022-08-06 16:45:39.753] [Thread-99] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 16:45:39.753] [Thread-99] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-9} closing ...
+[2022-08-06 16:45:39.753] [Thread-99] [INFO] [com.alibaba.druid.pool.DruidDataSource:?] - {dataSource-9} closed
+[2022-08-06 16:45:39.754] [Thread-99] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource all closed success,bye
+[2022-08-06 16:45:40.047] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 2024 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 16:45:40.047] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - The following 1 profile is active: "dev"
+[2022-08-06 16:45:40.722] [restartedMain] [INFO] [io.undertow.servlet:382] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 16:45:40.789] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-10,master} inited
+[2022-08-06 16:45:40.789] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 16:45:40.789] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 16:45:40.789] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 16:45:41.676] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:?] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 16:45:41.971] [restartedMain] [INFO] [io.undertow:120] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 16:45:41.983] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:93] - Documentation plugins bootstrapped
+[2022-08-06 16:45:41.984] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Found 2 custom documentation plugin(s)
+[2022-08-06 16:45:41.991] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 16:45:42.009] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:?] - Scanning for api listing references
+[2022-08-06 16:45:42.017] [restartedMain] [INFO] [s.d.s.w.r.operation.CachingOperationNameGenerator:41] - Generating unique operation named: openUsingPOST_1
+[2022-08-06 16:45:42.021] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - Started SystemApplication in 2.061 seconds (JVM running for 2643.925)
+[2022-08-06 16:50:40.122] [Thread-109] [INFO] [io.undertow:259] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 16:50:40.132] [Thread-109] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:215] - dynamic-datasource start closing ....
+[2022-08-06 16:50:40.132] [Thread-109] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 16:50:40.132] [Thread-109] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-10} closing ...
+[2022-08-06 16:50:40.132] [Thread-109] [INFO] [com.alibaba.druid.pool.DruidDataSource:2116] - {dataSource-10} closed
+[2022-08-06 16:50:40.132] [Thread-109] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:219] - dynamic-datasource all closed success,bye
+[2022-08-06 16:50:40.513] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 2024 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 16:50:40.513] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - The following 1 profile is active: "dev"
+[2022-08-06 16:50:41.280] [restartedMain] [INFO] [io.undertow.servlet:382] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 16:50:41.345] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-11,master} inited
+[2022-08-06 16:50:41.346] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 16:50:41.346] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 16:50:41.346] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 16:50:42.310] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 16:50:42.590] [restartedMain] [INFO] [io.undertow:120] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 16:50:42.606] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:93] - Documentation plugins bootstrapped
+[2022-08-06 16:50:42.606] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:79] - Found 2 custom documentation plugin(s)
+[2022-08-06 16:50:42.614] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 16:50:42.632] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 16:50:42.640] [restartedMain] [INFO] [s.d.s.w.r.operation.CachingOperationNameGenerator:41] - Generating unique operation named: openUsingPOST_1
+[2022-08-06 16:50:42.645] [restartedMain] [INFO] [com.pengzy.SystemApplication:61] - Started SystemApplication in 2.223 seconds (JVM running for 2944.549)
+[2022-08-06 16:51:22.371] [Thread-119] [INFO] [io.undertow:259] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 16:51:22.377] [Thread-119] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:215] - dynamic-datasource start closing ....
+[2022-08-06 16:51:22.378] [Thread-119] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 16:51:22.378] [Thread-119] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-11} closing ...
+[2022-08-06 16:51:22.378] [Thread-119] [INFO] [com.alibaba.druid.pool.DruidDataSource:2116] - {dataSource-11} closed
+[2022-08-06 16:51:22.378] [Thread-119] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource all closed success,bye
+[2022-08-06 16:51:22.745] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 2024 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 16:51:22.745] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - The following 1 profile is active: "dev"
+[2022-08-06 16:51:23.489] [restartedMain] [INFO] [io.undertow.servlet:382] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 16:51:23.566] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-12,master} inited
+[2022-08-06 16:51:23.567] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 16:51:23.567] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 16:51:23.567] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 16:51:24.698] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 16:51:24.932] [restartedMain] [INFO] [io.undertow:?] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 16:51:24.944] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Documentation plugins bootstrapped
+[2022-08-06 16:51:24.945] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Found 2 custom documentation plugin(s)
+[2022-08-06 16:51:24.951] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 16:51:24.966] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 16:51:24.973] [restartedMain] [INFO] [s.d.s.w.r.operation.CachingOperationNameGenerator:?] - Generating unique operation named: openUsingPOST_1
+[2022-08-06 16:51:24.977] [restartedMain] [INFO] [com.pengzy.SystemApplication:61] - Started SystemApplication in 2.353 seconds (JVM running for 2986.881)
+[2022-08-06 16:53:59.856] [Thread-129] [INFO] [io.undertow:259] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 16:53:59.866] [Thread-129] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource start closing ....
+[2022-08-06 16:53:59.866] [Thread-129] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 16:53:59.866] [Thread-129] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-12} closing ...
+[2022-08-06 16:53:59.867] [Thread-129] [INFO] [com.alibaba.druid.pool.DruidDataSource:2116] - {dataSource-12} closed
+[2022-08-06 16:53:59.867] [Thread-129] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:219] - dynamic-datasource all closed success,bye
+[2022-08-06 16:54:00.250] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 2024 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 16:54:00.250] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - The following 1 profile is active: "dev"
+[2022-08-06 16:54:01.082] [restartedMain] [INFO] [io.undertow.servlet:382] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 16:54:01.168] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-13,master} inited
+[2022-08-06 16:54:01.169] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 16:54:01.169] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 16:54:01.169] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 16:54:02.095] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:?] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 16:54:02.378] [restartedMain] [INFO] [io.undertow:120] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 16:54:02.391] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:93] - Documentation plugins bootstrapped
+[2022-08-06 16:54:02.392] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:79] - Found 2 custom documentation plugin(s)
+[2022-08-06 16:54:02.398] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 16:54:02.403] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 16:54:02.407] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - Started SystemApplication in 2.243 seconds (JVM running for 3144.311)
+[2022-08-06 16:54:36.095] [Thread-139] [INFO] [io.undertow:259] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 16:54:36.105] [Thread-139] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource start closing ....
+[2022-08-06 16:54:36.105] [Thread-139] [INFO] [com.alibaba.druid.pool.DruidDataSource:?] - {dataSource-0} closing ...
+[2022-08-06 16:54:36.105] [Thread-139] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-13} closing ...
+[2022-08-06 16:54:36.105] [Thread-139] [INFO] [com.alibaba.druid.pool.DruidDataSource:?] - {dataSource-13} closed
+[2022-08-06 16:54:36.105] [Thread-139] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:219] - dynamic-datasource all closed success,bye
+[2022-08-06 16:54:36.408] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 2024 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 16:54:36.408] [restartedMain] [INFO] [com.pengzy.SystemApplication:640] - The following 1 profile is active: "dev"
+[2022-08-06 16:54:37.191] [restartedMain] [INFO] [io.undertow.servlet:?] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 16:54:37.258] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-14,master} inited
+[2022-08-06 16:54:37.259] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 16:54:37.259] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 16:54:37.259] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 16:54:38.168] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 16:54:38.481] [restartedMain] [INFO] [io.undertow:120] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 16:54:38.495] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Documentation plugins bootstrapped
+[2022-08-06 16:54:38.496] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:?] - Found 2 custom documentation plugin(s)
+[2022-08-06 16:54:38.503] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 16:54:38.521] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 16:54:38.527] [restartedMain] [INFO] [s.d.s.w.r.operation.CachingOperationNameGenerator:41] - Generating unique operation named: openUsingPOST_1
+[2022-08-06 16:54:38.532] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - Started SystemApplication in 2.234 seconds (JVM running for 3180.436)
+[2022-08-06 17:07:21.293] [Thread-149] [INFO] [io.undertow:?] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 17:07:21.301] [Thread-149] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource start closing ....
+[2022-08-06 17:07:21.301] [Thread-149] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 17:07:21.301] [Thread-149] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-14} closing ...
+[2022-08-06 17:07:21.301] [Thread-149] [INFO] [com.alibaba.druid.pool.DruidDataSource:2116] - {dataSource-14} closed
+[2022-08-06 17:07:21.301] [Thread-149] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource all closed success,bye
+[2022-08-06 17:07:21.712] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 2024 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 17:07:21.712] [restartedMain] [INFO] [com.pengzy.SystemApplication:640] - The following 1 profile is active: "dev"
+[2022-08-06 17:07:24.626] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 2024 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 17:07:24.626] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - The following 1 profile is active: "dev"
+[2022-08-06 17:07:26.285] [restartedMain] [INFO] [io.undertow.servlet:382] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 17:07:26.459] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-15,master} inited
+[2022-08-06 17:07:26.460] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 17:07:26.460] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 17:07:26.460] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 17:07:27.471] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 17:07:27.770] [restartedMain] [INFO] [io.undertow:120] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 17:07:27.783] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:93] - Documentation plugins bootstrapped
+[2022-08-06 17:07:27.784] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:79] - Found 2 custom documentation plugin(s)
+[2022-08-06 17:07:27.791] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 17:07:27.807] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 17:07:27.814] [restartedMain] [INFO] [s.d.s.w.r.operation.CachingOperationNameGenerator:41] - Generating unique operation named: openUsingPOST_1
+[2022-08-06 17:07:27.818] [restartedMain] [INFO] [com.pengzy.SystemApplication:61] - Started SystemApplication in 3.301 seconds (JVM running for 3949.723)
+[2022-08-06 17:13:13.708] [Thread-159] [INFO] [io.undertow:259] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 17:13:13.715] [Thread-159] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:215] - dynamic-datasource start closing ....
+[2022-08-06 17:13:13.715] [Thread-159] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 17:13:13.715] [Thread-159] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-15} closing ...
+[2022-08-06 17:13:13.715] [Thread-159] [INFO] [com.alibaba.druid.pool.DruidDataSource:2116] - {dataSource-15} closed
+[2022-08-06 17:13:13.716] [Thread-159] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:219] - dynamic-datasource all closed success,bye
+[2022-08-06 17:13:14.260] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 2024 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 17:13:14.260] [restartedMain] [INFO] [com.pengzy.SystemApplication:640] - The following 1 profile is active: "dev"
+[2022-08-06 17:13:15.054] [restartedMain] [INFO] [io.undertow.servlet:?] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 17:13:15.121] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-16,master} inited
+[2022-08-06 17:13:15.121] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 17:13:15.121] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 17:13:15.121] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 17:13:16.530] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 17:13:16.799] [restartedMain] [INFO] [io.undertow:120] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 17:13:16.816] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:93] - Documentation plugins bootstrapped
+[2022-08-06 17:13:16.816] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:79] - Found 2 custom documentation plugin(s)
+[2022-08-06 17:13:16.824] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 17:13:16.841] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 17:13:16.848] [restartedMain] [INFO] [s.d.s.w.r.operation.CachingOperationNameGenerator:41] - Generating unique operation named: openUsingPOST_1
+[2022-08-06 17:13:16.853] [restartedMain] [INFO] [com.pengzy.SystemApplication:?] - Started SystemApplication in 2.711 seconds (JVM running for 4298.757)
+[2022-08-06 17:14:33.004] [Thread-178] [INFO] [io.undertow:?] - stopping server: Undertow - 2.2.18.Final
+[2022-08-06 17:14:33.017] [Thread-178] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:?] - dynamic-datasource start closing ....
+[2022-08-06 17:14:33.017] [Thread-178] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-0} closing ...
+[2022-08-06 17:14:33.018] [Thread-178] [INFO] [com.alibaba.druid.pool.DruidDataSource:2043] - {dataSource-16} closing ...
+[2022-08-06 17:14:33.018] [Thread-178] [INFO] [com.alibaba.druid.pool.DruidDataSource:2116] - {dataSource-16} closed
+[2022-08-06 17:14:33.018] [Thread-178] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:219] - dynamic-datasource all closed success,bye
+[2022-08-06 17:14:33.899] [restartedMain] [INFO] [com.pengzy.SystemApplication:55] - Starting SystemApplication using Java 1.8.0_221 on LAPTOP-EF6KPL23 with PID 2024 (D:\software\Idea\ideaProject\pengzy\system\target\classes started by lenovo in D:\software\Idea\ideaProject\pengzy)
+[2022-08-06 17:14:33.900] [restartedMain] [INFO] [com.pengzy.SystemApplication:640] - The following 1 profile is active: "dev"
+[2022-08-06 17:14:35.050] [restartedMain] [INFO] [io.undertow.servlet:382] - Initializing Spring embedded WebApplicationContext
+[2022-08-06 17:14:35.144] [restartedMain] [INFO] [com.alibaba.druid.pool.DruidDataSource:990] - {dataSource-17,master} inited
+[2022-08-06 17:14:35.145] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [slave] success
+[2022-08-06 17:14:35.145] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:147] - dynamic-datasource - add a datasource named [master] success
+[2022-08-06 17:14:35.145] [restartedMain] [INFO] [c.b.dynamic.datasource.DynamicRoutingDataSource:238] - dynamic-datasource initial loaded [2] datasource,primary datasource named [master]
+[2022-08-06 17:14:36.635] [restartedMain] [INFO] [s.d.s.w.WebMvcPropertySourcedRequestMappingHandlerMapping:?] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+[2022-08-06 17:14:37.116] [restartedMain] [INFO] [io.undertow:120] - starting server: Undertow - 2.2.18.Final
+[2022-08-06 17:14:37.133] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:93] - Documentation plugins bootstrapped
+[2022-08-06 17:14:37.133] [restartedMain] [INFO] [s.d.s.web.plugins.DocumentationPluginsBootstrapper:79] - Found 2 custom documentation plugin(s)
+[2022-08-06 17:14:37.143] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 17:14:37.166] [restartedMain] [INFO] [s.d.spring.web.scanners.ApiListingReferenceScanner:44] - Scanning for api listing references
+[2022-08-06 17:14:37.174] [restartedMain] [INFO] [s.d.s.w.r.operation.CachingOperationNameGenerator:41] - Generating unique operation named: openUsingPOST_1
+[2022-08-06 17:14:37.180] [restartedMain] [INFO] [com.pengzy.SystemApplication:61] - Started SystemApplication in 3.391 seconds (JVM running for 4379.084)
